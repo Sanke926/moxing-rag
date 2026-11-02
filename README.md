@@ -1,4 +1,4 @@
-# Your RAG Number Is a Property of the Template You Copied
+﻿# Your RAG Number Is a Property of the Template You Copied
 
 Code and data for the paper *"Your RAG Number Is a Property of the Template You Copied: An
 Audit of the Default Question-Answering Prompts Shipped by Three RAG Frameworks"*.
@@ -20,9 +20,10 @@ to **79–95%**, against **0–2%** once deleted, without changing the format-in
 ```
 scripts/    runner, analysis, verification and figure scripts
 results/    per-question predictions (fw_*.jsonl), 21,000 reader calls
-figures/    figures used in the paper
-paper/      manuscript source (.tex) and PDF
+figures/    the figures used in the paper
 ```
+
+The manuscript itself is not tracked in this repository.
 
 ## The three templates (verbatim, with provenance)
 
@@ -103,3 +104,4 @@ construction.
 
 MIT for the code; the datasets keep their original licenses
 (HotpotQA, 2WikiMultiHopQA, MuSiQue).
+
