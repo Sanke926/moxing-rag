@@ -99,7 +99,7 @@ ax.spines[["top", "right"]].set_visible(False)
 # ---------- magnitude strip ----------
 fig.text(0.5, 0.155,
          r"$46$ pts template        $77\text{–}93$ pts instruction        "
-         r"$2$ vs $5.5$ pts pool        $0.19$ AURC metric",
+         r"$2$ vs $5.5$ pts pool        $0.131$ AURC metric",
          ha="center", fontsize=7.6, color=INK)
 
 fig.text(0.5, 0.075,
@@ -108,4 +108,5 @@ fig.text(0.5, 0.075,
 
 fig.savefig(OUT, dpi=400, facecolor="white")
 print("wrote", OUT)
+
 

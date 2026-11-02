@@ -62,8 +62,10 @@ python scripts/_llama_sig.py
 python scripts/plot_templates.py
 python scripts/plot_graphical_abstract.py
 
-# 4. verify every number quoted in the paper (40 checks)
+# 4. verify every number quoted in the paper (40 checks for Studies A/B,
+#    18 checks for Studies C/D)
 python scripts/_template_paper_verify2.py
+python scripts/_study_cd_verify.py
 ```
 
 The verification script recomputes all 40 values quoted in the manuscript from the raw
@@ -104,4 +106,5 @@ construction.
 
 MIT for the code; the datasets keep their original licenses
 (HotpotQA, 2WikiMultiHopQA, MuSiQue).
+
 
