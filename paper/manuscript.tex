@@ -58,12 +58,13 @@ templates; abstention; retrieval coverage; rank metrics; reproducibility
 
 \begin{figure}[t]
 \centering
-\includegraphics[width=0.95\linewidth]{fig_ai_main.png}
-\caption{Overview of the four inputs audited here, drawn for the two largest. Left: the same
-reader, documents and questions under three published default templates, with the 46-point
-exact-match spread. Right: abstention with an empty context, with and without the single
-sentence that LangChain's default carries. Values are the measured ones from
-Tables~\ref{tab:format} and~\ref{tab:clause}.}
+\includegraphics[width=0.95\linewidth]{fig_overview.png}
+\caption{The four inputs audited in this paper. Each is chosen before any method is, and each
+moves the reported number by more than the differences methods usually claim: the template by
+46 EM points (\S\ref{sec:template}), one instruction by 77--93 points of abstention
+(\S\ref{sec:clause}), the pool by 2 points of oracle headroom against 5.5 points of reranking
+gain (\S\ref{sec:pool}), and the tie convention by up to 0.19 AURC (\S\ref{sec:metric}). All
+values are measured and are regenerated from the released predictions.}
 \label{fig:overview}
 \end{figure}
 \section{Introduction}
@@ -661,4 +662,5 @@ Grattafiori, A., et al.: The Llama 3 herd of models. \url{https://arxiv.org/abs/
 \end{thebibliography}
 
 \end{document}
+
 
