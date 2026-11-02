@@ -1,4 +1,4 @@
-"""Figures 2-4 for the integrated audit paper."""
+﻿"""Figures 2-4 for the integrated audit paper."""
 import json
 from collections import defaultdict
 from pathlib import Path
@@ -58,23 +58,23 @@ print("wrote fig_abstention")
 # ---- Fig 3: retrieval-pool degeneracy ----
 fig, axes = plt.subplots(1, 2, figsize=(8.4, 3.3))
 ax = axes[0]
-labels = ["10-doc pool\n(what benchmarks use)", "open corpus\n(4,930 paragraphs)"]
-vals = [100.0, 59.0]
+labels = ["supplied pool\n(10 candidates)", "expanded corpus\n(4,930 paragraphs)"]
+vals = [97.4, 59.0]
 bars = ax.bar(labels, vals, color=["#C44E52", "#4C72B0"], width=0.55)
 for b, v in zip(bars, vals):
     ax.text(b.get_x() + b.get_width() / 2, v + 2, f"{v:.0f}%", ha="center", fontsize=10, weight="bold")
 ax.set_ylim(0, 116)
-ax.set_ylabel("Questions with the full gold\nparagraph set in the top 10 (%)")
-ax.set_title("The pool decides whether selection can help", fontsize=10)
+ax.set_ylabel("Gold paragraph retrieved (%)")
+ax.set_title("Coverage depends on the pool", fontsize=10)
 
 ax = axes[1]
-bars = ax.bar(["BM25 top-10", "CE reranked top-10"], [36.5, 42.0],
+bars = ax.bar(["BM25 top-10", "CE reranked top-10"], [33.2, 38.4],
               color=["#999999", "#55A868"], width=0.5)
-for b, v in zip(bars, [36.5, 42.0]):
+for b, v in zip(bars, [33.2, 38.4]):
     ax.text(b.get_x() + b.get_width() / 2, v + 0.8, f"{v:.1f}", ha="center", fontsize=10, weight="bold")
-ax.set_ylim(0, 50)
+ax.set_ylim(0, 46)
 ax.set_ylabel("Exact match")
-ax.set_title("Reranking pays only when retrieval is real", fontsize=10)
+ax.set_title("Reranking gain on the expanded corpus", fontsize=10)
 for ax in axes:
     ax.grid(axis="y", alpha=0.3)
     ax.spines["top"].set_visible(False)
@@ -99,3 +99,5 @@ ax.set_title("A confidence with few levels has an unstable score", fontsize=10)
 fig.tight_layout()
 fig.savefig(OUT / "fig_span.png", dpi=220)
 print("wrote fig_span")
+
+

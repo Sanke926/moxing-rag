@@ -67,13 +67,13 @@ ax.spines[["top", "right"]].set_visible(False)
 # ---------- (c) pool ----------
 ax = axs[2]
 x = np.arange(2)
-ax.bar(x, [100, 59], width=0.5, color=["#d9d9d9", "white"], edgecolor=INK, linewidth=0.8)
-for xi, v in zip(x, [100, 59]):
-    ax.text(xi, v + 2.5, f"{v:.0f}", ha="center", va="bottom", fontsize=6.6)
+ax.bar(x, [97.4, 59], width=0.5, color=["#d9d9d9", "white"], edgecolor=INK, linewidth=0.8)
+for xi, v in zip(x, [97.4, 59]):
+    ax.text(xi, v + 2.5, f"{v:.1f}", ha="center", va="bottom", fontsize=6.6)
 ax.set_xticks(x)
-ax.set_xticklabels(["pool", "open"], fontsize=7)
+ax.set_xticklabels(["pool", "expanded"], fontsize=7)
 ax.set_ylim(0, 118)
-ax.set_ylabel("gold in top 10 (%)", fontsize=7)
+ax.set_ylabel("gold retrieved (%)", fontsize=7)
 ax.set_title("(c) pool", fontsize=7.8, pad=5, loc="left", style="italic")
 ax.spines[["top", "right"]].set_visible(False)
 
@@ -103,10 +103,11 @@ fig.text(0.5, 0.155,
          ha="center", fontsize=7.6, color=INK)
 
 fig.text(0.5, 0.075,
-         "four choices made before any method is, each larger than the effects methods report",
+         "four choices made before any method is, all of them usually left unreported",
          ha="center", fontsize=8.2, color=GREY, style="italic")
 
 fig.savefig(OUT, dpi=400, facecolor="white")
 print("wrote", OUT)
+
 
 

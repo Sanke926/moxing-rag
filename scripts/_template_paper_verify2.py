@@ -1,4 +1,4 @@
-﻿"""Camera-ready verification for the template paper (v2, includes 8B, anchor, truncation).
+"""Camera-ready verification for the template paper (v2, includes 8B, anchor, truncation).
 
 Every number quoted in the paper is recomputed from the raw rows; the one external
 reference (FlashRAG's reported F1) is checked for being quoted consistently.
@@ -111,6 +111,33 @@ for tmpl, exp in [("FR", 41.8), ("LI", 1.4), ("LC", 1.2)]:
     rs = [r for r in cell[("hotpot", "qwen2.5:3b", tmpl, "rag")]]
     vals = [em(" ".join((r["answer"] or "").split()[:3]), golds.get(r["qid"], [])) for r in rs]
     checks.append((f"{tmpl} first-3-words EM", exp, round(100 * np.mean(vals), 1)))
+
+# ---- Study A judge ----
+jf = FW / "judge_hotpot_200.jsonl"
+if jf.exists():
+    jrows = [json.loads(l) for l in jf.read_text(encoding="utf-8").splitlines() if l.strip()]
+    jby = defaultdict(dict)
+    for r in jrows:
+        jby[r["template"]][r["qid"]] = r["verdict"]
+    for t, exp in [("FR", 67.5), ("LI", 60.0), ("LC", 68.0)]:
+        v = list(jby[t].values())
+        checks.append((f"judge {t}", exp, round(100 * np.mean(v), 1)))
+    qq = sorted(set(jby["FR"]) & set(jby["LC"]))
+    a = [jby["FR"][x] for x in qq]
+    b = [jby["LC"][x] for x in qq]
+    pj = mcnemar(a, b)
+    checks.append(("judge FR-LC delta", -0.5, round(100 * (np.mean(a) - np.mean(b)), 1)))
+    checks.append(("judge FR-LC p (x100)", 100, round(pj * 100)))
+
+# ---- retrieval-gain inflation, per control ----
+for ds, triples in [("hotpot", (7.0, 6.8, 8.2)), ("2wiki", (6.0, 6.2, 2.6)),
+                    ("musique", (1.0, 1.6, -0.8))]:
+    base = (agg(ds, "qwen2.5:3b", "LC", "rag", "contains")
+            - agg(ds, "qwen2.5:3b", "LC", "closed", "contains"))
+    for t, exp in zip(("LC_minus", "LC_neutral", "LC_cleared"), triples):
+        g = (agg(ds, "qwen2.5:3b", t, "rag", "contains")
+             - agg(ds, "qwen2.5:3b", t, "closed", "contains"))
+        checks.append((f"{ds} LC-{t} inflation", exp, round(base - g, 1)))
 
 print(f"{'check':<40}{'paper':>9}{'recomputed':>12}  status")
 bad = 0

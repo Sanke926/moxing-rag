@@ -1,4 +1,4 @@
-"""Verification for Study C (pool) and Study D (metric), from stored artefacts."""
+﻿"""Verification for Study C (pool) and Study D (metric), from stored artefacts."""
 import json
 import math
 import random
@@ -38,16 +38,16 @@ def mcnemar(a, b):
 checks = []
 
 # ---------- C1: end to end ----------
-rows = [json.loads(l) for l in (R / "bigcorpus" / "e2e_hotpot_200.jsonl")
+rows = [json.loads(l) for l in (R / "bigcorpus" / "e2e_hotpot_500.jsonl")
         .read_text(encoding="utf-8").splitlines() if l.strip()]
 bm = [r["arms"]["bm25"]["em"] for r in rows]
 ce = [r["arms"]["ce"]["em"] for r in rows]
 p, bm_only, ce_only = mcnemar(bm, ce)
-checks += [("C1 BM25 top-10 EM", 36.5, round(100 * np.mean(bm), 1)),
-           ("C1 CE reranked EM", 42.0, round(100 * np.mean(ce), 1)),
-           ("C1 CE wins (discordant)", 19, ce_only),
-           ("C1 BM25 wins (discordant)", 8, bm_only),
-           ("C1 McNemar p (x1000)", 52, round(p * 1000))]
+checks += [("C1 BM25 top-10 EM", 33.2, round(100 * np.mean(bm), 1)),
+           ("C1 CE reranked EM", 38.4, round(100 * np.mean(ce), 1)),
+           ("C1 CE wins (discordant)", 43, ce_only),
+           ("C1 BM25 wins (discordant)", 17, bm_only),
+           ("C1 McNemar p (x10000)", 11, round(p * 10000))]
 
 # ---------- C2: read-all vs oracle ----------
 S = {}
@@ -105,3 +105,4 @@ for name, exp, got in checks:
     bad += not ok
     print(f"{name:<36}{exp:>10}{got:>12}  {'ok' if ok else 'FAIL'}")
 print(f"\n{bad} mismatches out of {len(checks)}")
+

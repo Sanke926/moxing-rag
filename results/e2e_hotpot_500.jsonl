@@ -1,0 +1,500 @@
+{"qid": "5a8ac4085542992d82986f74", "golds": ["a scholar"], "arms": {"bm25": {"answer": "Forbidden Quest", "em": 0}, "ce": {"answer": "Forbidden Quest", "em": 0}}}
+{"qid": "5a7b374c5542995eb53be8cc", "golds": ["New York City, New York"], "arms": {"bm25": {"answer": "John Frazee", "em": 0}, "ce": {"answer": "New York City", "em": 0}}}
+{"qid": "5ab92e02554299753720f775", "golds": ["219"], "arms": {"bm25": {"answer": "The Boeing 707-436 used for BOAC Flight 911 had a passenger capacity of", "em": 0}, "ce": {"answer": "The Boeing 707-436 used for BOAC Flight 911 had a passenger capacity of", "em": 0}}}
+{"qid": "5ab58f9a554299488d4d99da", "golds": ["22 November"], "arms": {"bm25": {"answer": "22 November 1761", "em": 0}, "ce": {"answer": "22 November 1761", "em": 0}}}
+{"qid": "5adf860e5542993344016cbc", "golds": ["1964 to 1974"], "arms": {"bm25": {"answer": "1908-1913", "em": 0}, "ce": {"answer": "1906-1908", "em": 0}}}
+{"qid": "5a7ad9865542995eb53be8aa", "golds": ["Honda Ballade"], "arms": {"bm25": {"answer": "Honda Quint", "em": 0}, "ce": {"answer": "Honda CR-X", "em": 0}}}
+{"qid": "5a71443f5542994082a3e727", "golds": ["It lies two kilometres WSW of Mount Everest."], "arms": {"bm25": {"answer": "Nuptse", "em": 0}, "ce": {"answer": "Gasherbrum II", "em": 0}}}
+{"qid": "5a7cbf93554299452d57b9f5", "golds": ["Magdalen College"], "arms": {"bm25": {"answer": "Magdalen College", "em": 1}, "ce": {"answer": "Magdalen College", "em": 1}}}
+{"qid": "5adf98215542993344016d19", "golds": ["Kew Gardens"], "arms": {"bm25": {"answer": "Kew Gardens", "em": 1}, "ce": {"answer": "Kew Gardens", "em": 1}}}
+{"qid": "5ae1fa2b5542997f29b3c1df", "golds": ["Eminem"], "arms": {"bm25": {"answer": "Eminem", "em": 1}, "ce": {"answer": "Eminem", "em": 1}}}
+{"qid": "5ae650fb55429929b0807b2e", "golds": ["people working in film and the performing arts"], "arms": {"bm25": {"answer": "Christopher Oscar Pena was recognized by Backstage (magazine), an entertainment-industry brand, for his work in theater", "em": 0}, "ce": {"answer": "Playwrights Unit", "em": 0}}}
+{"qid": "5a85597c5542997175ce1fba", "golds": ["Canadian"], "arms": {"bm25": {"answer": "Canadian", "em": 1}, "ce": {"answer": "Canadian", "em": 1}}}
+{"qid": "5ac19d4c55429963665198bb", "golds": ["May Revolution"], "arms": {"bm25": {"answer": "The May Revolution", "em": 1}, "ce": {"answer": "The May Revolution", "em": 1}}}
+{"qid": "5ab611cc5542992aa134a411", "golds": ["director and producer"], "arms": {"bm25": {"answer": "Film director", "em": 0}, "ce": {"answer": "Film director and producer", "em": 0}}}
+{"qid": "5ab7c87d55429928e1fe38de", "golds": ["third"], "arms": {"bm25": {"answer": "Blackie Lawless", "em": 0}, "ce": {"answer": "Red Letter Days", "em": 0}}}
+{"qid": "5ab4bea15542990594ba9cae", "golds": ["Dublin"], "arms": {"bm25": {"answer": "Dublin", "em": 1}, "ce": {"answer": "Dublin", "em": 1}}}
+{"qid": "5ade9c9c5542997c77adee8c", "golds": ["Julius Caesar"], "arms": {"bm25": {"answer": "There is no information provided in the given context about Edward Carfagno and Miklos Rozsa working on the same", "em": 0}, "ce": {"answer": "Tightrope", "em": 0}}}
+{"qid": "5ae0d7315542990adbacf678", "golds": ["Toshi Ichiyanagi"], "arms": {"bm25": {"answer": "Toshi Ichiyanagi", "em": 1}, "ce": {"answer": "Toshi Ichiyanagi", "em": 1}}}
+{"qid": "5ae1ba55554299234fd042d9", "golds": ["Kings Point, New York"], "arms": {"bm25": {"answer": "United States Merchant Marine Academy", "em": 0}, "ce": {"answer": "Kings Point, New York", "em": 1}}}
+{"qid": "5a839c8b5542996488c2e479", "golds": ["Lord Chancellor of England"], "arms": {"bm25": {"answer": "Francis Bacon; Solicitor General.", "em": 0}, "ce": {"answer": "Lord Chancellor of England.", "em": 1}}}
+{"qid": "5abdd08d5542991f6610604c", "golds": ["Guardians of the Galaxy Vol. 2"], "arms": {"bm25": {"answer": "Guardians of the Galaxy Vol. 2", "em": 1}, "ce": {"answer": "Guardians of the Galaxy Vol. 2", "em": 1}}}
+{"qid": "5ade190f55429975fa854e40", "golds": ["The sponsorship scandal"], "arms": {"bm25": {"answer": "Sponsorship scandal", "em": 1}, "ce": {"answer": "Sponsorship scandal", "em": 1}}}
+{"qid": "5a8cd381554299653c1aa12b", "golds": ["Sigmund Freud"], "arms": {"bm25": {"answer": "Sigmund Freud", "em": 1}, "ce": {"answer": "Sigmund Freud", "em": 1}}}
+{"qid": "5abd12bb55429933744ab703", "golds": ["Mount Everest"], "arms": {"bm25": {"answer": "Mount Everest", "em": 1}, "ce": {"answer": "Mount Everest", "em": 1}}}
+{"qid": "5abb1e1b5542992ccd8e7f19", "golds": ["Nobel Prize in Literature"], "arms": {"bm25": {"answer": "Nobel Prize in Literature", "em": 1}, "ce": {"answer": "Nobel Prize in Literature", "em": 1}}}
+{"qid": "5adeb95d5542992fa25da827", "golds": ["yes"], "arms": {"bm25": {"answer": "No", "em": 0}, "ce": {"answer": "No", "em": 0}}}
+{"qid": "5a8ba59a554299240d9c2058", "golds": ["1999"], "arms": {"bm25": {"answer": "1999", "em": 1}, "ce": {"answer": "1999", "em": 1}}}
+{"qid": "5a7c53a855429935c91b515d", "golds": ["The R-8 Human Rhythm Composer"], "arms": {"bm25": {"answer": "Roland R-8", "em": 0}, "ce": {"answer": "Roland R-8", "em": 0}}}
+{"qid": "5ae54eea5542993aec5ec19d", "golds": ["Social Code"], "arms": {"bm25": {"answer": "Social Code", "em": 1}, "ce": {"answer": "Social Code", "em": 1}}}
+{"qid": "5a8026a05542992e7d278df8", "golds": ["3 December"], "arms": {"bm25": {"answer": "3 June 2016", "em": 0}, "ce": {"answer": "3 June 2016", "em": 0}}}
+{"qid": "5a7a27ce5542996c55b2dd28", "golds": ["The Western Allied invasion of Germany"], "arms": {"bm25": {"answer": "The Western Allied invasion of Germany", "em": 1}, "ce": {"answer": "Western Allied invasion of Germany", "em": 1}}}
+{"qid": "5ab9812d554299753720f821", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5ac3b5d3554299741d48a2f3", "golds": ["September 30, 2017"], "arms": {"bm25": {"answer": "July 7, 1990", "em": 0}, "ce": {"answer": "July 7, 1990", "em": 0}}}
+{"qid": "5ab811e95542995dae37ea22", "golds": ["Wiz Khalifa"], "arms": {"bm25": {"answer": "Tim Armstrong", "em": 0}, "ce": {"answer": "Charlie Puth", "em": 0}}}
+{"qid": "5a80541d5542996402f6a4d2", "golds": ["2016"], "arms": {"bm25": {"answer": "2016", "em": 1}, "ce": {"answer": "2016", "em": 1}}}
+{"qid": "5ac2546a554299636651997b", "golds": ["Motion City Soundtrack"], "arms": {"bm25": {"answer": "Motion City Soundtrack", "em": 1}, "ce": {"answer": "Motion City Soundtrack", "em": 1}}}
+{"qid": "5ab8f3235542991b5579f084", "golds": ["45th"], "arms": {"bm25": {"answer": "17th", "em": 0}, "ce": {"answer": "10", "em": 0}}}
+{"qid": "5ac31066554299741d48a19d", "golds": ["Melbourne"], "arms": {"bm25": {"answer": "St Kilda", "em": 0}, "ce": {"answer": "Melbourne", "em": 1}}}
+{"qid": "5ac279345542990b17b153b0", "golds": ["28 January 1864"], "arms": {"bm25": {"answer": "28 January 1864", "em": 1}, "ce": {"answer": "28 January 1864", "em": 1}}}
+{"qid": "5adfc50355429942ec259b43", "golds": ["Alice Springs, Northern Territory"], "arms": {"bm25": {"answer": "TIO Traeger Park", "em": 0}, "ce": {"answer": "TIO Traeger Park", "em": 0}}}
+{"qid": "5ae5e1985542996de7b71a54", "golds": ["Archbishop of Canterbury"], "arms": {"bm25": {"answer": "The last Roman Catholic Archbishop of Canterbury.", "em": 0}, "ce": {"answer": "Cardinal Reginald Pole", "em": 0}}}
+{"qid": "5a87411d5542994846c1cd37", "golds": ["member of the Executive Council of the General Anthroposophical Society"], "arms": {"bm25": {"answer": "General secretary of the Norwegian Anthroposophical Society.", "em": 0}, "ce": {"answer": "General secretary of the Norwegian Anthroposophical Society.", "em": 0}}}
+{"qid": "5ab4107a554299753aec5a2f", "golds": ["1961"], "arms": {"bm25": {"answer": "1941", "em": 0}, "ce": {"answer": "1944", "em": 0}}}
+{"qid": "5ae3d8415542992f92d8239a", "golds": ["high school diploma or GED"], "arms": {"bm25": {"answer": "Associate degree", "em": 0}, "ce": {"answer": "High school diploma or GED.", "em": 1}}}
+{"qid": "5a88a19a5542997e5c09a64b", "golds": ["moth"], "arms": {"bm25": {"answer": "Phyllocnistis liquidambarisella", "em": 0}, "ce": {"answer": "Phyllocnistis liquidambarisella", "em": 0}}}
+{"qid": "5a7e1ad155429965cec5ea66", "golds": ["Nebula Award, the Philip K. Dick Award, and the Hugo Award"], "arms": {"bm25": {"answer": "The Sprawl Trilogy's first book, \"Neuromancer,\" won the McClelland & Stewart $50", "em": 0}, "ce": {"answer": "Nebula Award, Hugo Award, Locus Award", "em": 0}}}
+{"qid": "5a745e1455429929fddd83fd", "golds": ["Ephedrine"], "arms": {"bm25": {"answer": "Ephedrine", "em": 1}, "ce": {"answer": "Ephedrine", "em": 1}}}
+{"qid": "5a8ca7d4554299240d9c21b8", "golds": ["\"Currer Bell\""], "arms": {"bm25": {"answer": "Currer Bell", "em": 1}, "ce": {"answer": "Currer Bell", "em": 1}}}
+{"qid": "5a7ec90055429934daa2fc66", "golds": ["Scottish Premiership club Hearts"], "arms": {"bm25": {"answer": "Wydad Casablanca", "em": 0}, "ce": {"answer": "Hearts", "em": 0}}}
+{"qid": "5a82112955429926c1cdae25", "golds": ["Southaven, Mississippi"], "arms": {"bm25": {"answer": "Southaven", "em": 0}, "ce": {"answer": "Southaven", "em": 0}}}
+{"qid": "5a85a3005542991dd0999e72", "golds": ["World War II"], "arms": {"bm25": {"answer": "World War II", "em": 1}, "ce": {"answer": "World War II", "em": 1}}}
+{"qid": "5ab4475c5542996a3a969f6c", "golds": ["Eddie Izzard"], "arms": {"bm25": {"answer": "Eddie Izzard", "em": 1}, "ce": {"answer": "Eddie Izzard", "em": 1}}}
+{"qid": "5ac1a04e5542991316484b63", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5ae09ce855429924de1b7113", "golds": ["25"], "arms": {"bm25": {"answer": "I Can't Get Next to You", "em": 0}, "ce": {"answer": "Moonlight Shadow", "em": 0}}}
+{"qid": "5a78bc6b554299148911f979", "golds": ["fortnightly women interest magazine"], "arms": {"bm25": {"answer": "Women's magazines", "em": 0}, "ce": {"answer": "Women's and lifestyle", "em": 0}}}
+{"qid": "5ab2a8b655429929539467ab", "golds": ["Nikhil Banerjee"], "arms": {"bm25": {"answer": "Zila Khan", "em": 0}, "ce": {"answer": "Nikhil Banerjee", "em": 1}}}
+{"qid": "5a8a7d2b55429930ff3c0dfc", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5ae3f2395542995ad6573cc6", "golds": ["yes"], "arms": {"bm25": {"answer": "Yes", "em": 1}, "ce": {"answer": "No", "em": 0}}}
+{"qid": "5a90bd7b55429916514e7547", "golds": ["Polypodium"], "arms": {"bm25": {"answer": "Aichryson", "em": 0}, "ce": {"answer": "Aichryson", "em": 0}}}
+{"qid": "5ae20e265542994d89d5b325", "golds": ["James G. Kiernan"], "arms": {"bm25": {"answer": "James G. Kiernan", "em": 1}, "ce": {"answer": "James G. Kiernan", "em": 1}}}
+{"qid": "5abc039a5542993f40c73c49", "golds": ["Clinton"], "arms": {"bm25": {"answer": "Clinton Administration", "em": 0}, "ce": {"answer": "Clinton Administration", "em": 0}}}
+{"qid": "5a77c74155429967ab105291", "golds": ["Vib Gyor was a band that was formed in Leeds, England."], "arms": {"bm25": {"answer": "Vib Gyor", "em": 0}, "ce": {"answer": "Vib Gyor", "em": 0}}}
+{"qid": "5ae48e7e55429913cc20449d", "golds": ["Europe"], "arms": {"bm25": {"answer": "Europe", "em": 1}, "ce": {"answer": "Europe", "em": 1}}}
+{"qid": "5abaf4535542996cc5e49f35", "golds": ["Boulder High School"], "arms": {"bm25": {"answer": "Boulder, Colorado", "em": 0}, "ce": {"answer": "Boulder, Colorado", "em": 0}}}
+{"qid": "5a901e5c55429933b8a2047c", "golds": ["Euripides"], "arms": {"bm25": {"answer": "Madge Ryan participated in the Broadway production of \"Summer of the Seventeenth Doll,\" which was a 195", "em": 0}, "ce": {"answer": "Madge Ryan did not participate in the 1993 production; she was an actress. The 19", "em": 0}}}
+{"qid": "5ab528a3554299637185c4e5", "golds": ["musician, singer, and songwriter"], "arms": {"bm25": {"answer": "James Hetfield is a musician known for Metallica, while Bob Marley was a Jamaican reggae singer.", "em": 0}, "ce": {"answer": "Musicians", "em": 0}}}
+{"qid": "5a88fc4255429938390d4019", "golds": ["September 25, 2017"], "arms": {"bm25": {"answer": "September 25, 2017", "em": 1}, "ce": {"answer": "September 25, 2017", "em": 1}}}
+{"qid": "5ae0345855429924de1b705f", "golds": ["Las Vegas Sands company."], "arms": {"bm25": {"answer": "The Venetian Macao", "em": 0}, "ce": {"answer": "The Venetian Macao", "em": 0}}}
+{"qid": "5ac1b5de5542994d76dccec6", "golds": ["My Beautiful Dark Twisted Fantasy"], "arms": {"bm25": {"answer": "All of the Lights", "em": 0}, "ce": {"answer": "All of the Lights", "em": 0}}}
+{"qid": "5a82fe5055429966c78a6ad3", "golds": ["evangelical Christian"], "arms": {"bm25": {"answer": "Christian", "em": 0}, "ce": {"answer": "Christian", "em": 0}}}
+{"qid": "5a798f8c5542994bb9457023", "golds": ["Port Moresby, Papua New Guinea"], "arms": {"bm25": {"answer": "Port Moresby, Papua New Guinea", "em": 1}, "ce": {"answer": "Port Moresby, Papua New Guinea", "em": 1}}}
+{"qid": "5add63845542992ae4cec541", "golds": ["April 29, 2005 for US$129.95"], "arms": {"bm25": {"answer": "Mac OS X 10.4 Tiger", "em": 0}, "ce": {"answer": "Mac OS X 10.4 Tiger", "em": 0}}}
+{"qid": "5ababbe9554299232ef4a38a", "golds": ["Margery Williams"], "arms": {"bm25": {"answer": "Margery Williams", "em": 1}, "ce": {"answer": "Margery Williams", "em": 1}}}
+{"qid": "5ae3205c55429928c423961e", "golds": ["Leslie Knope"], "arms": {"bm25": {"answer": "Leslie Knope", "em": 1}, "ce": {"answer": "Leslie Knope", "em": 1}}}
+{"qid": "5abcf2b4554299700f9d7937", "golds": ["Giotto"], "arms": {"bm25": {"answer": "Giotto", "em": 1}, "ce": {"answer": "Giotto", "em": 1}}}
+{"qid": "5a8b4a5f55429949d91db531", "golds": ["IK Start"], "arms": {"bm25": {"answer": "Start", "em": 0}, "ce": {"answer": "IK Start", "em": 1}}}
+{"qid": "5a79be0e5542994f819ef084", "golds": ["March 13, 2013"], "arms": {"bm25": {"answer": "June 12, 2014", "em": 0}, "ce": {"answer": "March 13, 2013", "em": 1}}}
+{"qid": "5ae69e3f5542996d980e7c61", "golds": ["University of New York Upstate"], "arms": {"bm25": {"answer": "Chicago Institute for Psychoanalysis", "em": 0}, "ce": {"answer": "University of California, San Diego", "em": 0}}}
+{"qid": "5a8a495055429930ff3c0d6a", "golds": ["Tumwater, Washington"], "arms": {"bm25": {"answer": "Tumwater", "em": 0}, "ce": {"answer": "Tumwater", "em": 0}}}
+{"qid": "5a8c5c6f554299653c1aa04d", "golds": ["Coyote Ugly"], "arms": {"bm25": {"answer": "Coyote Ugly", "em": 1}, "ce": {"answer": "Coyote Ugly", "em": 1}}}
+{"qid": "5a80ecea55429938b6142254", "golds": ["Queen In-hyun's Man"], "arms": {"bm25": {"answer": "Queen In-hyun's Man", "em": 1}, "ce": {"answer": "Queen In-hyun's Man", "em": 1}}}
+{"qid": "5a8242c155429940e5e1a81d", "golds": ["Germany"], "arms": {"bm25": {"answer": "University of Chicago", "em": 0}, "ce": {"answer": "New York, NY", "em": 0}}}
+{"qid": "5a7cef5d55429909bec768ac", "golds": ["September 13, 1994"], "arms": {"bm25": {"answer": "Ready to Die", "em": 0}, "ce": {"answer": "Ready to Die", "em": 0}}}
+{"qid": "5a7319e755429901807daf86", "golds": ["most total touchdowns in NCAA history"], "arms": {"bm25": {"answer": "Adrian Peterson", "em": 0}, "ce": {"answer": "Casey Keenum holds the NCAA record for total passing yards, touchdowns, and completions as a college football player.", "em": 0}}}
+{"qid": "5ae1d0e8554299234fd0430a", "golds": ["Guthred or Guthfrith"], "arms": {"bm25": {"answer": "Guthred", "em": 0}, "ce": {"answer": "Guthred", "em": 0}}}
+{"qid": "5ade99295542992fa25da7d8", "golds": ["linguistic analysis"], "arms": {"bm25": {"answer": "Late date and ultraviolent content relevance.", "em": 0}, "ce": {"answer": "Computer analysis of textual style.", "em": 0}}}
+{"qid": "5a734bb65542994cef4bc50f", "golds": ["Vincent Anthony Guaraldi"], "arms": {"bm25": {"answer": "Vince Guaraldi", "em": 0}, "ce": {"answer": "Vince Guaraldi", "em": 0}}}
+{"qid": "5abe7eb05542993f32c2a12c", "golds": ["1 September 1864"], "arms": {"bm25": {"answer": "10 July 1873", "em": 0}, "ce": {"answer": "10 July 1873", "em": 0}}}
+{"qid": "5a84f7255542991dd0999e33", "golds": ["Republic of Chad"], "arms": {"bm25": {"answer": "Chad", "em": 0}, "ce": {"answer": "Chad", "em": 0}}}
+{"qid": "5a70f1685542994082a3e40f", "golds": ["Symphony No. 7"], "arms": {"bm25": {"answer": "Violin Sonata No. 5 (Beethoven)", "em": 0}, "ce": {"answer": "Violin Sonata No. 5 (F major)", "em": 0}}}
+{"qid": "5ae0de1455429924de1b71b4", "golds": ["orange juice"], "arms": {"bm25": {"answer": "Orange Julius", "em": 0}, "ce": {"answer": "Ice, orange juice, sweetener, milk, powdered egg whites and vanilla flavoring.", "em": 0}}}
+{"qid": "5ae4a2b25542995ad6573de0", "golds": ["pro-Confederate"], "arms": {"bm25": {"answer": "Quantrill's Raiders", "em": 0}, "ce": {"answer": "Quantrill's Raiders", "em": 0}}}
+{"qid": "5abd9c2355429924427fd06c", "golds": ["2005"], "arms": {"bm25": {"answer": "2009", "em": 0}, "ce": {"answer": "2006", "em": 0}}}
+{"qid": "5a74701655429979e2882952", "golds": ["Blonde Redhead"], "arms": {"bm25": {"answer": "Blonde Redhead", "em": 1}, "ce": {"answer": "Blonde Redhead", "em": 1}}}
+{"qid": "5ab7f7465542993667794071", "golds": ["British Bristol Olympus turbojet"], "arms": {"bm25": {"answer": "Bristol Olympus turbojet", "em": 0}, "ce": {"answer": "Turbojet", "em": 0}}}
+{"qid": "5a7a6ee75542996c55b2ddac", "golds": ["Krzysztof Zanussi"], "arms": {"bm25": {"answer": "Thom Andersen", "em": 0}, "ce": {"answer": "Thom Andersen", "em": 0}}}
+{"qid": "5a85fa815542996432c57155", "golds": ["Western Europe"], "arms": {"bm25": {"answer": "Belgium", "em": 0}, "ce": {"answer": "Western Europe", "em": 1}}}
+{"qid": "5ae27f555542992decbdcd30", "golds": ["Hermione Baddeley"], "arms": {"bm25": {"answer": "Hermione Baddeley", "em": 1}, "ce": {"answer": "Hermione Baddeley", "em": 1}}}
+{"qid": "5ade3d75554299728e26c68b", "golds": ["Finding Nemo"], "arms": {"bm25": {"answer": "Finding Nemo", "em": 1}, "ce": {"answer": "Finding Nemo", "em": 1}}}
+{"qid": "5ae236da5542994d89d5b397", "golds": ["July 26, 1959"], "arms": {"bm25": {"answer": "1924", "em": 0}, "ce": {"answer": "Otis B. Thayer", "em": 0}}}
+{"qid": "5adfad2b554299603e41835c", "golds": ["Kenny Young"], "arms": {"bm25": {"answer": "Kenny Young", "em": 1}, "ce": {"answer": "Kenny Young", "em": 1}}}
+{"qid": "5abbc58455429931dba14502", "golds": ["Sam Raimi"], "arms": {"bm25": {"answer": "Toby Wilkins", "em": 0}, "ce": {"answer": "Tron", "em": 0}}}
+{"qid": "5a861fa75542994775f60706", "golds": ["North American Aviation T-6 Texan"], "arms": {"bm25": {"answer": "P-51 Mustang", "em": 0}, "ce": {"answer": "T-6 Texan", "em": 0}}}
+{"qid": "5a888fe6554299206df2b2f7", "golds": ["T. R. M. Howard"], "arms": {"bm25": {"answer": "T. R. M. Howard", "em": 1}, "ce": {"answer": "T. R. M. Howard", "em": 1}}}
+{"qid": "5ab865235542992aa3b8c8db", "golds": ["500 metres"], "arms": {"bm25": {"answer": "500", "em": 0}, "ce": {"answer": "400 metres", "em": 0}}}
+{"qid": "5ae064985542993d6555eb47", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5ae531a95542990ba0bbb1fc", "golds": ["1986"], "arms": {"bm25": {"answer": "1988", "em": 0}, "ce": {"answer": "1945", "em": 0}}}
+{"qid": "5ae533535542993aec5ec173", "golds": ["political correctness"], "arms": {"bm25": {"answer": "Political correctness", "em": 1}, "ce": {"answer": "Political correctness", "em": 1}}}
+{"qid": "5adebea1554299728e26c7b6", "golds": ["Prof Media"], "arms": {"bm25": {"answer": "Music Choice/Dance Channel", "em": 0}, "ce": {"answer": "Viacom International Media Networks", "em": 0}}}
+{"qid": "5adfdc7d55429942ec259b64", "golds": ["Andrew Johnson"], "arms": {"bm25": {"answer": "Andrew Johnson", "em": 1}, "ce": {"answer": "Andrew Johnson", "em": 1}}}
+{"qid": "5adbe9fa55429944faac23ba", "golds": ["yes"], "arms": {"bm25": {"answer": "Yes", "em": 1}, "ce": {"answer": "Yes", "em": 1}}}
+{"qid": "5ae31bbd55429928c42395fc", "golds": ["yes"], "arms": {"bm25": {"answer": "Yes", "em": 1}, "ce": {"answer": "Yes", "em": 1}}}
+{"qid": "5ae2120e5542997283cd23ad", "golds": ["yes"], "arms": {"bm25": {"answer": "Yes", "em": 1}, "ce": {"answer": "Yes", "em": 1}}}
+{"qid": "5a9052765542995651fb513d", "golds": ["Prof Bhabananda Deka"], "arms": {"bm25": {"answer": "Czesław Miłosz", "em": 0}, "ce": {"answer": "Bhabananda Deka", "em": 0}}}
+{"qid": "5ae6795855429908198fa5e4", "golds": ["16th Street and Georgetown Road"], "arms": {"bm25": {"answer": "Indy赛道", "em": 0}, "ce": {"answer": "16th Street and Georgetown Road", "em": 1}}}
+{"qid": "5a84e61b5542997b5ce3ff86", "golds": ["show's 500th episode"], "arms": {"bm25": {"answer": "500th episode", "em": 0}, "ce": {"answer": "500th episode", "em": 0}}}
+{"qid": "5ab266b5554299340b5254b4", "golds": ["Citizens for a Sound Economy"], "arms": {"bm25": {"answer": "The term Moneybomb was coined by Trevor Lyman to describe a massive online donation drive on behalf of a presidential candidate,", "em": 0}, "ce": {"answer": "Citizens for a Sound Economy", "em": 1}}}
+{"qid": "5ab5ec0a5542997d4ad1f250", "golds": ["650 locations"], "arms": {"bm25": {"answer": "Approximately 650 locations.", "em": 0}, "ce": {"answer": "Approximately 650 locations.", "em": 0}}}
+{"qid": "5a72a9ab5542992359bc315a", "golds": ["the Pennacook people"], "arms": {"bm25": {"answer": "Pennacook", "em": 0}, "ce": {"answer": "Pennacook", "em": 0}}}
+{"qid": "5a848b5c5542997175ce1ef2", "golds": ["Glam metal"], "arms": {"bm25": {"answer": "Doom Metal", "em": 0}, "ce": {"answer": "Glam metal", "em": 1}}}
+{"qid": "5ab467975542991751b4d75f", "golds": ["1992"], "arms": {"bm25": {"answer": "Madcon", "em": 0}, "ce": {"answer": "Madcon", "em": 0}}}
+{"qid": "5a75ebfc5542992d0ec06018", "golds": ["Odawa"], "arms": {"bm25": {"answer": "Odawa (Ottawa)", "em": 0}, "ce": {"answer": "Odawa (Ottawa)", "em": 0}}}
+{"qid": "5a7cdd6b55429909bec76858", "golds": ["Louis XIV"], "arms": {"bm25": {"answer": "Edward Sharpe and the Magnetic Zeros", "em": 0}, "ce": {"answer": "Edward Sharpe and the Magnetic Zeros", "em": 0}}}
+{"qid": "5a8209845542990a1d231f1f", "golds": ["Ducks"], "arms": {"bm25": {"answer": "Ducks", "em": 1}, "ce": {"answer": "Ducks", "em": 1}}}
+{"qid": "5a726b0f5542997f827839be", "golds": ["Jean-Loup Jacques Marie Chrétien"], "arms": {"bm25": {"answer": "Jean-Loup Chrétien", "em": 0}, "ce": {"answer": "Jean-Loup Chrétien", "em": 0}}}
+{"qid": "5ac2616b5542996366519997", "golds": ["Ghana"], "arms": {"bm25": {"answer": "Ghana", "em": 1}, "ce": {"answer": "Jamaica", "em": 0}}}
+{"qid": "5ae4f3c455429960a22e0221", "golds": ["575 acres (2.08 km²)"], "arms": {"bm25": {"answer": "Village of Hamilton, Madison County, New York", "em": 0}, "ce": {"answer": "Village of Hamilton, Madison County, New York", "em": 0}}}
+{"qid": "5a8b4ec155429949d91db53f", "golds": ["Zachary Levi"], "arms": {"bm25": {"answer": "Zachary Levi", "em": 1}, "ce": {"answer": "Zachary Levi", "em": 1}}}
+{"qid": "5ac52f455542996feb3fea12", "golds": ["1950"], "arms": {"bm25": {"answer": "1950", "em": 1}, "ce": {"answer": "1950", "em": 1}}}
+{"qid": "5ab438395542990594ba9bb9", "golds": ["Michael Seater"], "arms": {"bm25": {"answer": "Derek McDonald", "em": 0}, "ce": {"answer": "Ashley Leggat", "em": 0}}}
+{"qid": "5a81a7f75542995ce29dcc25", "golds": ["Carrefour"], "arms": {"bm25": {"answer": "Carrefour", "em": 1}, "ce": {"answer": "Carrefour", "em": 1}}}
+{"qid": "5add98985542990dbb2f7e82", "golds": ["American schoolteacher and publisher"], "arms": {"bm25": {"answer": "Journalist and activist.", "em": 0}, "ce": {"answer": "Publisher", "em": 0}}}
+{"qid": "5ae1465855429920d5234373", "golds": ["New York Yankees"], "arms": {"bm25": {"answer": "New York Yankees", "em": 1}, "ce": {"answer": "Boston Red Sox", "em": 0}}}
+{"qid": "5a721d5a55429971e9dc9283", "golds": ["Ballarat Bitter is a 4.9% (abv) Australian beer"], "arms": {"bm25": {"answer": "Ballarat Bitter", "em": 0}, "ce": {"answer": "Ballarat Bitter", "em": 0}}}
+{"qid": "5ae7ea695542994a481bbe17", "golds": ["Apsley George Benet Cherry-Garrard"], "arms": {"bm25": {"answer": "Apsley Cherry-Garrard", "em": 0}, "ce": {"answer": "Apsley Cherry-Garrard", "em": 0}}}
+{"qid": "5ae7eb3c5542994a481bbe20", "golds": ["Babylon"], "arms": {"bm25": {"answer": "Babylon", "em": 1}, "ce": {"answer": "Babylon", "em": 1}}}
+{"qid": "5adf69055542995534e8c7a4", "golds": ["St Andrews, Fife, Scotland"], "arms": {"bm25": {"answer": "University of St Andrews", "em": 0}, "ce": {"answer": "University of St Andrews", "em": 0}}}
+{"qid": "5a806cdf5542996402f6a508", "golds": ["University of Vienna"], "arms": {"bm25": {"answer": "Temple University", "em": 0}, "ce": {"answer": "University of Vienna", "em": 1}}}
+{"qid": "5a78d01d55429974737f78b3", "golds": ["SBS"], "arms": {"bm25": {"answer": "World's Toughest Fixes", "em": 0}, "ce": {"answer": "SBS", "em": 1}}}
+{"qid": "5adf62d05542992d7e9f932d", "golds": ["\"Walk Like an Egyptian\""], "arms": {"bm25": {"answer": "Rob Bickhart's \"It's All Love!\"", "em": 0}, "ce": {"answer": "Rob Bickhart.", "em": 0}}}
+{"qid": "5a8b3fe85542995d1e6f1323", "golds": ["Johnson Press"], "arms": {"bm25": {"answer": "Alibaba Cloud", "em": 0}, "ce": {"answer": "DC Thomson", "em": 0}}}
+{"qid": "5a7dedef5542995f4f40231a", "golds": ["Michael Patrick Smith"], "arms": {"bm25": {"answer": "Robin Chalk", "em": 0}, "ce": {"answer": "Michael Crawford", "em": 0}}}
+{"qid": "5a88c68d55429938390d3fba", "golds": ["Irish"], "arms": {"bm25": {"answer": "Irish", "em": 1}, "ce": {"answer": "Irish", "em": 1}}}
+{"qid": "5abc0bea554299658360040d", "golds": ["Prince of Denmark"], "arms": {"bm25": {"answer": "Henry", "em": 0}, "ce": {"answer": "King Henry V of England", "em": 0}}}
+{"qid": "5abb2f245542996cc5e49fd2", "golds": ["natural-ingredients-only personal care products"], "arms": {"bm25": {"answer": "Natural products", "em": 0}, "ce": {"answer": "Tom's of Maine manufactures natural and organic personal care products.", "em": 0}}}
+{"qid": "5a72f74a55429901807daf59", "golds": ["Rosie O'Donnell"], "arms": {"bm25": {"answer": "Gary Anthony Williams", "em": 0}, "ce": {"answer": "Rosie O'Donnell", "em": 1}}}
+{"qid": "5ae0a54e5542993d6555ebdd", "golds": ["Urijah Christopher Faber"], "arms": {"bm25": {"answer": "Urijah Faber", "em": 0}, "ce": {"answer": "Urijah Faber", "em": 0}}}
+{"qid": "5a866e7e554299211dda2b29", "golds": ["Peer"], "arms": {"bm25": {"answer": "Peer", "em": 1}, "ce": {"answer": "Lord", "em": 0}}}
+{"qid": "5abaf6865542996cc5e49f3c", "golds": ["Sean"], "arms": {"bm25": {"answer": "Sean", "em": 1}, "ce": {"answer": "Harry Hook", "em": 0}}}
+{"qid": "5ae534bb5542990ba0bbb21d", "golds": ["Liberty"], "arms": {"bm25": {"answer": "MIT Technology Review", "em": 0}, "ce": {"answer": "MIT Technology Review", "em": 0}}}
+{"qid": "5ae327e05542992f92d82220", "golds": ["13"], "arms": {"bm25": {"answer": "8", "em": 0}, "ce": {"answer": "13", "em": 1}}}
+{"qid": "5abebbe65542997719eab59d", "golds": ["February 20, 1978"], "arms": {"bm25": {"answer": "April 12, 1959", "em": 0}, "ce": {"answer": "April 12, 2017", "em": 0}}}
+{"qid": "5ab5e9865542992aa134a3db", "golds": ["Greek mythology"], "arms": {"bm25": {"answer": "Mother goddess beliefs", "em": 0}, "ce": {"answer": "Mother goddess worship", "em": 0}}}
+{"qid": "5a7a112a5542990783324e2b", "golds": ["drummer"], "arms": {"bm25": {"answer": "Mark Gaudet and Jan Axel Blomberg are musicians involved in heavy metal and black metal.", "em": 0}, "ce": {"answer": "Mark Gaudet is a musician, primarily known for his work in various indie and metal bands, including Funeral Fog.", "em": 0}}}
+{"qid": "5adf430e5542993a75d2645e", "golds": ["Dundee Canal"], "arms": {"bm25": {"answer": "Dundee Canal", "em": 1}, "ce": {"answer": "Dundee Canal", "em": 1}}}
+{"qid": "5a779be75542995d83181215", "golds": ["England"], "arms": {"bm25": {"answer": "Australia", "em": 0}, "ce": {"answer": "England", "em": 1}}}
+{"qid": "5a809b575542996402f6a59c", "golds": ["Dusty Dvoracek"], "arms": {"bm25": {"answer": "Adam Amin and Dusty Dvoracek", "em": 0}, "ce": {"answer": "Adam Amin and Dusty Dvoracek", "em": 0}}}
+{"qid": "5abed9435542994516f45457", "golds": ["Tron"], "arms": {"bm25": {"answer": "Tron", "em": 1}, "ce": {"answer": "Tron", "em": 1}}}
+{"qid": "5adf4ba65542992d7e9f931c", "golds": ["Beauty and the Beast"], "arms": {"bm25": {"answer": "Beauty and the Beast", "em": 1}, "ce": {"answer": "Beauty and the Beast (1991 film)", "em": 0}}}
+{"qid": "5ae491155542995ad6573da3", "golds": ["June 6, 1959"], "arms": {"bm25": {"answer": "Dave Schultz (Freestyle Wrestling - 74 kg) was born in 1959.", "em": 0}, "ce": {"answer": "Dave Schultz (born June 6, 1959)", "em": 0}}}
+{"qid": "5ac440385542997ea680ca4e", "golds": ["Hessians"], "arms": {"bm25": {"answer": "Hessians and British regulars.", "em": 0}, "ce": {"answer": "Hessians and British regulars.", "em": 0}}}
+{"qid": "5a84d80c5542992a431d1ab5", "golds": ["MiMA"], "arms": {"bm25": {"answer": "MiMA", "em": 1}, "ce": {"answer": "MiMA", "em": 1}}}
+{"qid": "5ae7945d5542997b22f6a7ba", "golds": ["Big 12"], "arms": {"bm25": {"answer": "None of the provided information specifies the conference in which Stacey Totman's college golf team competes.", "em": 0}, "ce": {"answer": "None of the provided information specifies the conference in which Stacey Totman's Texas Tech Red Raiders women's golf team compet", "em": 0}}}
+{"qid": "5ab98608554299131ca42362", "golds": ["1926 Paris"], "arms": {"bm25": {"answer": "1926 Paris", "em": 1}, "ce": {"answer": "1926 Paris", "em": 1}}}
+{"qid": "5ab3eeb5554299233954fff4", "golds": ["2011"], "arms": {"bm25": {"answer": "2005", "em": 0}, "ce": {"answer": "2011", "em": 1}}}
+{"qid": "5a7ce50f55429909bec76869", "golds": ["1974"], "arms": {"bm25": {"answer": "1974", "em": 1}, "ce": {"answer": "1974", "em": 1}}}
+{"qid": "5a8fa4d95542995b4424207b", "golds": ["Trenton–Mercer Airport"], "arms": {"bm25": {"answer": "Trenton–Mercer Airport", "em": 1}, "ce": {"answer": "Trenton–Mercer Airport", "em": 1}}}
+{"qid": "5a72ba165542992359bc318a", "golds": ["Wikimedia Foundation"], "arms": {"bm25": {"answer": "Baidu", "em": 0}, "ce": {"answer": "Spill.com", "em": 0}}}
+{"qid": "5a85ae455542997175ce1ff0", "golds": ["stunt performances"], "arms": {"bm25": {"answer": "Stunt performer", "em": 0}, "ce": {"answer": "Stunt performer", "em": 0}}}
+{"qid": "5a8bbfb15542995e66a474f6", "golds": ["former tennis player"], "arms": {"bm25": {"answer": "Tennis players", "em": 0}, "ce": {"answer": "Tennis players", "em": 0}}}
+{"qid": "5ac240ef55429951e9e684ef", "golds": ["2006"], "arms": {"bm25": {"answer": "2006", "em": 1}, "ce": {"answer": "2005", "em": 0}}}
+{"qid": "5ab72b5c5542993667793f63", "golds": ["American"], "arms": {"bm25": {"answer": "United States", "em": 0}, "ce": {"answer": "United States", "em": 0}}}
+{"qid": "5ab3af70554299233954ff81", "golds": ["Orson Welles"], "arms": {"bm25": {"answer": "Orson Welles", "em": 1}, "ce": {"answer": "Orson Welles", "em": 1}}}
+{"qid": "5ae320a95542991a06ce992e", "golds": ["about 26,000."], "arms": {"bm25": {"answer": "26,000", "em": 0}, "ce": {"answer": "26,000", "em": 0}}}
+{"qid": "5ae28b76554299495565daa8", "golds": ["\"personal earnings\" (such as salary and wages), \"business income\" and \"capital gains\""], "arms": {"bm25": {"answer": "Personal earnings, business income, and capital gains.", "em": 0}, "ce": {"answer": "Personal earnings, business income, and capital gains.", "em": 0}}}
+{"qid": "5ab6a8b5554299710c8d1f30", "golds": ["the National Society of Daughters of the American Revolution"], "arms": {"bm25": {"answer": "The National Society of Daughters of the American Revolution (NSDAR) commissioned the series of 12 monuments.", "em": 0}, "ce": {"answer": "The National Society of Daughters of the American Revolution (NSDAR)", "em": 0}}}
+{"qid": "5a8b8f5b55429949d91db5e1", "golds": ["video game"], "arms": {"bm25": {"answer": "Lotion Play", "em": 0}, "ce": {"answer": "Guitar Hero", "em": 0}}}
+{"qid": "5ae829ea5542997ec2727738", "golds": ["city of Springfield, Massachusetts"], "arms": {"bm25": {"answer": "Springfield Armory", "em": 0}, "ce": {"answer": "Springfield", "em": 0}}}
+{"qid": "5aba14195542994dbf0198a9", "golds": ["15"], "arms": {"bm25": {"answer": "15", "em": 1}, "ce": {"answer": "15", "em": 1}}}
+{"qid": "5ae370295542992e3233c402", "golds": ["American"], "arms": {"bm25": {"answer": "American", "em": 1}, "ce": {"answer": "American", "em": 1}}}
+{"qid": "5abdba405542993f32c2a023", "golds": ["Perfect Strangers"], "arms": {"bm25": {"answer": "Family Matters is a spin-off of The Fresh Prince of Bel-Air.", "em": 0}, "ce": {"answer": "\"Perfect Strangers\"", "em": 1}}}
+{"qid": "5a855b5c5542997b5ce3ffeb", "golds": ["papermaking industry"], "arms": {"bm25": {"answer": "Textile industries.", "em": 0}, "ce": {"answer": "Glass and steel manufacturing.", "em": 0}}}
+{"qid": "5adf734b5542995ec70e9016", "golds": ["Chelsea Does"], "arms": {"bm25": {"answer": "Chelsea Does", "em": 1}, "ce": {"answer": "Chelsea Lately", "em": 0}}}
+{"qid": "5a81ca835542990a1d231ebd", "golds": ["Yarrow and Stookey"], "arms": {"bm25": {"answer": "Peter, Paul and Mary", "em": 0}, "ce": {"answer": "Peter, Paul and Mary", "em": 0}}}
+{"qid": "5abba581554299642a094af9", "golds": ["four"], "arms": {"bm25": {"answer": "4", "em": 1}, "ce": {"answer": "4", "em": 1}}}
+{"qid": "5a887f5c554299206df2b2c0", "golds": ["Eric Clapton"], "arms": {"bm25": {"answer": "John Renbourn", "em": 0}, "ce": {"answer": "John Renbourn", "em": 0}}}
+{"qid": "5a80956e5542996402f6a579", "golds": ["Gaius Julius Caesar Augustus Germanicus"], "arms": {"bm25": {"answer": "Elcmar", "em": 0}, "ce": {"answer": "Caligula", "em": 0}}}
+{"qid": "5ac2efd65542990b17b154c7", "golds": ["the tenth season"], "arms": {"bm25": {"answer": "Bigg Boss 10", "em": 0}, "ce": {"answer": "Bigg Boss 10", "em": 0}}}
+{"qid": "5a7af32e55429931da12c99c", "golds": ["Brooklyn, New York"], "arms": {"bm25": {"answer": "Jakarta", "em": 0}, "ce": {"answer": "Brooklyn", "em": 0}}}
+{"qid": "5a7c9d2e55429935c91b5261", "golds": ["Wendigo"], "arms": {"bm25": {"answer": "Windigo legend", "em": 0}, "ce": {"answer": "Windigo", "em": 0}}}
+{"qid": "5a8752955542994775f607d1", "golds": ["Arizona State Sun Devils"], "arms": {"bm25": {"answer": "2002 Boise State Broncos", "em": 0}, "ce": {"answer": "Arizona State Sun Devils", "em": 1}}}
+{"qid": "5ae3e2455542994393b9e78c", "golds": ["Armenian–American"], "arms": {"bm25": {"answer": "Both are Armenian-American.", "em": 0}, "ce": {"answer": "Photojournalists and musicians", "em": 0}}}
+{"qid": "5abd552555429933744ab776", "golds": ["PPG Paints Arena"], "arms": {"bm25": {"answer": "PPG Paints Arena in Pittsburgh, Pennsylvania", "em": 0}, "ce": {"answer": "PPG Paints Arena in Pittsburgh, Pennsylvania", "em": 0}}}
+{"qid": "5ac048cc554299294b218f73", "golds": ["John D Rockefeller's Standard Oil Company"], "arms": {"bm25": {"answer": "The Associated British Oil Engine Company", "em": 0}, "ce": {"answer": "Standard Oil Company", "em": 0}}}
+{"qid": "5ac048ea554299294b218f74", "golds": ["Michael Swango"], "arms": {"bm25": {"answer": "Michael Swango", "em": 1}, "ce": {"answer": "Michael Swango", "em": 1}}}
+{"qid": "5ab474135542991751b4d77b", "golds": ["Best Alternative Music Album"], "arms": {"bm25": {"answer": "Best Alternative Music Album", "em": 1}, "ce": {"answer": "Best Alternative Music Album", "em": 1}}}
+{"qid": "5a711cb45542994082a3e59f", "golds": ["Liezel Huber"], "arms": {"bm25": {"answer": "Lisa Raymond", "em": 0}, "ce": {"answer": "Lisa Raymond", "em": 0}}}
+{"qid": "5ae60db1554299546bf83041", "golds": ["German"], "arms": {"bm25": {"answer": "German", "em": 1}, "ce": {"answer": "German", "em": 1}}}
+{"qid": "5a8b81bc55429949d91db5b8", "golds": ["magazine"], "arms": {"bm25": {"answer": "Magazine", "em": 1}, "ce": {"answer": "Magazine", "em": 1}}}
+{"qid": "5a73bcf055429978a71e909c", "golds": ["Howard Melvin Fast"], "arms": {"bm25": {"answer": "Howard Fast", "em": 0}, "ce": {"answer": "Howard Fast", "em": 0}}}
+{"qid": "5ae1436e55429901ffe4ae31", "golds": ["gull-wing doors"], "arms": {"bm25": {"answer": "Open", "em": 0}, "ce": {"answer": "Gull-wing doors.", "em": 1}}}
+{"qid": "5ab207f65542993be8fa98b8", "golds": ["Preston"], "arms": {"bm25": {"answer": "Preston", "em": 1}, "ce": {"answer": "Preston", "em": 1}}}
+{"qid": "5a7766b15542993569682d7e", "golds": ["Casement's Fort"], "arms": {"bm25": {"answer": "Rahoneen", "em": 0}, "ce": {"answer": "McKenna's Fort", "em": 0}}}
+{"qid": "5ac1a3fa5542991316484b7d", "golds": ["the flags"], "arms": {"bm25": {"answer": "Local governance and autonomy.", "em": 0}, "ce": {"answer": "Local rulers and people", "em": 0}}}
+{"qid": "5a790f5e55429970f5fffe40", "golds": ["November 15, 1903"], "arms": {"bm25": {"answer": "December 6, 1933", "em": 0}, "ce": {"answer": "December 6, 1933", "em": 0}}}
+{"qid": "5add10ca5542994ed6169c59", "golds": ["yes"], "arms": {"bm25": {"answer": "No", "em": 0}, "ce": {"answer": "No", "em": 0}}}
+{"qid": "5ae1b2b9554299422ee99684", "golds": ["Robert Digges Wimberly Connor"], "arms": {"bm25": {"answer": "Robert Digges Wimberly Connor", "em": 1}, "ce": {"answer": "Robert Digges Wimberly Connor", "em": 1}}}
+{"qid": "5a7f81425542992097ad2f8e", "golds": ["Mean Girls"], "arms": {"bm25": {"answer": "April Fool's Day (2008 film)", "em": 0}, "ce": {"answer": "April Fool's Day (2008 film)", "em": 0}}}
+{"qid": "5a817f6655429938b6142349", "golds": ["Tori Amos"], "arms": {"bm25": {"answer": "Tori Amos", "em": 1}, "ce": {"answer": "Tori Amos", "em": 1}}}
+{"qid": "5ab6ddb655429953192ad39e", "golds": ["Montreal"], "arms": {"bm25": {"answer": "Toronto", "em": 0}, "ce": {"answer": "Brisbane", "em": 0}}}
+{"qid": "5a76cb9b55429966f1a36bf2", "golds": ["Adam Silver"], "arms": {"bm25": {"answer": "Adam Silver", "em": 1}, "ce": {"answer": "Adam Silver", "em": 1}}}
+{"qid": "5ae4808455429970de88d990", "golds": ["32 people"], "arms": {"bm25": {"answer": "56", "em": 0}, "ce": {"answer": "32", "em": 0}}}
+{"qid": "5ab7f6d35542993667794070", "golds": ["Cyclic Defrost"], "arms": {"bm25": {"answer": "Cyclic Defrost", "em": 1}, "ce": {"answer": "Cyclic Defrost", "em": 1}}}
+{"qid": "5abe86365542993f32c2a14d", "golds": ["\"The Wonder Years\""], "arms": {"bm25": {"answer": "Joel H. Cohen is the younger brother of Robert Cohen, who has also written for \"The Wonder Years\" and", "em": 0}, "ce": {"answer": "Robert Cohen", "em": 0}}}
+{"qid": "5a7571095542992d0ec05f97", "golds": ["Paula Maxine Patton"], "arms": {"bm25": {"answer": "Paula Patton", "em": 0}, "ce": {"answer": "Amy Smart", "em": 0}}}
+{"qid": "5adcfbf45542990d50227d86", "golds": ["Santa Monica, California"], "arms": {"bm25": {"answer": "Santa Monica", "em": 0}, "ce": {"answer": "New York City", "em": 0}}}
+{"qid": "5ab30d1155429976abd1bc3d", "golds": ["Tim Allen"], "arms": {"bm25": {"answer": "Ken Barrie", "em": 0}, "ce": {"answer": "John Schneider", "em": 0}}}
+{"qid": "5ae6069c55429929b0807a67", "golds": ["Fomento Económico Mexicano"], "arms": {"bm25": {"answer": "Coca-Cola FEMSA", "em": 0}, "ce": {"answer": "Coca-Cola FEMSA", "em": 0}}}
+{"qid": "5a711c535542994082a3e59b", "golds": ["Albanian political party in Montenegro"], "arms": {"bm25": {"answer": "Political organization", "em": 0}, "ce": {"answer": "Albanian Coalition Perspective is a political party.", "em": 0}}}
+{"qid": "5adf85e05542993344016cba", "golds": ["Championship"], "arms": {"bm25": {"answer": "The Football League Championship", "em": 0}, "ce": {"answer": "First Division", "em": 0}}}
+{"qid": "5a77897f55429949eeb29edc", "golds": ["an organ"], "arms": {"bm25": {"answer": "Berimbau", "em": 0}, "ce": {"answer": "Berimbau", "em": 0}}}
+{"qid": "5ae10a5b55429920d52342a0", "golds": ["Todd Phillips"], "arms": {"bm25": {"answer": "Amy Smart", "em": 0}, "ce": {"answer": "Arthur Lubin", "em": 0}}}
+{"qid": "5ab639e65542995eadeeff7f", "golds": ["Helen Elizabeth Hunt"], "arms": {"bm25": {"answer": "Helen Hunt", "em": 0}, "ce": {"answer": "Helen Hunt", "em": 0}}}
+{"qid": "5a8bae135542996e8ac889b6", "golds": ["Roy Richard Scheider"], "arms": {"bm25": {"answer": "Roy Scheider", "em": 0}, "ce": {"answer": "Roy Scheider", "em": 0}}}
+{"qid": "5a75e33855429976ec32bc74", "golds": ["the Phoenix Suns"], "arms": {"bm25": {"answer": "Miami Heat", "em": 0}, "ce": {"answer": "Miami Heat", "em": 0}}}
+{"qid": "5ae363ff5542992f92d822bc", "golds": ["Schutzstaffel"], "arms": {"bm25": {"answer": "Schutzstaffel (SS)", "em": 0}, "ce": {"answer": "Schutzstaffel (SS)", "em": 0}}}
+{"qid": "5ac0e6fa5542996f0d89cc35", "golds": ["Mad Hot Ballroom"], "arms": {"bm25": {"answer": "Koyaanisqatsi", "em": 0}, "ce": {"answer": "Mad Hot Ballroom", "em": 1}}}
+{"qid": "5ade6b67554299728e26c71c", "golds": ["Royal Navy"], "arms": {"bm25": {"answer": "Senior Service", "em": 0}, "ce": {"answer": "Royal Navy", "em": 1}}}
+{"qid": "5ae0c7e755429945ae95944c", "golds": ["Orange County"], "arms": {"bm25": {"answer": "Doniphan County", "em": 0}, "ce": {"answer": "Orange County", "em": 1}}}
+{"qid": "5a78f753554299078472776e", "golds": ["Philip Steven Labonte"], "arms": {"bm25": {"answer": "Alexi Laiho", "em": 0}, "ce": {"answer": "Philip Labonte", "em": 0}}}
+{"qid": "5adcde255542992c1e3a243f", "golds": ["Randy Orton"], "arms": {"bm25": {"answer": "Randy Orton", "em": 1}, "ce": {"answer": "Randy Orton", "em": 1}}}
+{"qid": "5ae73d505542991e8301cc2c", "golds": ["Mathieu Kassovitz"], "arms": {"bm25": {"answer": "Erik Van Looy", "em": 0}, "ce": {"answer": "Mathieu Kassovitz", "em": 1}}}
+{"qid": "5ae18d615542997283cd2229", "golds": ["mixed martial arts"], "arms": {"bm25": {"answer": "Mixed Martial Arts (MMA)", "em": 0}, "ce": {"answer": "Mixed Martial Arts (MMA)", "em": 0}}}
+{"qid": "5ac3ad7f5542995ef918c1de", "golds": ["Bergen"], "arms": {"bm25": {"answer": "Bergen County", "em": 0}, "ce": {"answer": "Teterboro", "em": 0}}}
+{"qid": "5ab9d44255429939ce03dc36", "golds": ["Miller Brewing"], "arms": {"bm25": {"answer": "Miller Brewing", "em": 1}, "ce": {"answer": "Miller Brewing", "em": 1}}}
+{"qid": "5a863b27554299211dda2ab6", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5a79118755429974737f7962", "golds": ["Foo Fighters"], "arms": {"bm25": {"answer": "Foo Fighters", "em": 1}, "ce": {"answer": "Foo Fighters", "em": 1}}}
+{"qid": "5abfa9745542997ec76fd426", "golds": ["\"The Big Bang Theory\""], "arms": {"bm25": {"answer": "The Big Bang Theory", "em": 1}, "ce": {"answer": "The Big Bang Theory", "em": 1}}}
+{"qid": "5abfc8675542993fe9a41e52", "golds": ["McLaren Vale"], "arms": {"bm25": {"answer": "McLaren Vale", "em": 1}, "ce": {"answer": "McLaren Vale", "em": 1}}}
+{"qid": "5a866c04554299211dda2b25", "golds": ["yes"], "arms": {"bm25": {"answer": "No", "em": 0}, "ce": {"answer": "No", "em": 0}}}
+{"qid": "5a80c74f554299260e20a158", "golds": ["Dennis Hull, as well as painter Manley MacDonald."], "arms": {"bm25": {"answer": "Dennis Hull", "em": 0}, "ce": {"answer": "Manley Edward MacDonald", "em": 0}}}
+{"qid": "5ae5691055429960a22e02f3", "golds": ["1,800"], "arms": {"bm25": {"answer": "More than 1,800 games.", "em": 0}, "ce": {"answer": "Parker Brothers", "em": 0}}}
+{"qid": "5ab1d983554299340b52540a", "golds": ["Ghostbusters Spooktacular"], "arms": {"bm25": {"answer": "Jaws (based on \"Jaws\") replaced T2 3-D: Battle Across Time (based on \"T", "em": 0}, "ce": {"answer": "Twister", "em": 0}}}
+{"qid": "5ab28e2a5542993be8fa9947", "golds": ["Eddie \"The Eagle\" Edwards"], "arms": {"bm25": {"answer": "Eddie the Eagle", "em": 0}, "ce": {"answer": "Eddie \"The Eagle\" Edwards", "em": 1}}}
+{"qid": "5ab9547755429970cfb8ea6c", "golds": ["87"], "arms": {"bm25": {"answer": "87", "em": 1}, "ce": {"answer": "87", "em": 1}}}
+{"qid": "5a7ce0bc55429909bec76863", "golds": ["Friends"], "arms": {"bm25": {"answer": "Friends", "em": 1}, "ce": {"answer": "Friends", "em": 1}}}
+{"qid": "5ae17daa55429901ffe4aea9", "golds": ["James Tinling"], "arms": {"bm25": {"answer": "Robert Mitchum", "em": 0}, "ce": {"answer": "George Montgomery", "em": 0}}}
+{"qid": "5ae7c5ef5542993210983f44", "golds": ["Gainesville, Florida"], "arms": {"bm25": {"answer": "None of the given context provides information about a punk rock band called Against Me! or its location in North Central Florida.", "em": 0}, "ce": {"answer": "Gainesville", "em": 0}}}
+{"qid": "5a7313865542994cef4bc442", "golds": ["Regional Rural Bank"], "arms": {"bm25": {"answer": "Regional Rural Bank (RRB)", "em": 0}, "ce": {"answer": "Regional Rural Bank (RRB)", "em": 0}}}
+{"qid": "5adccf645542990d50227d32", "golds": ["Oklahoma City"], "arms": {"bm25": {"answer": "Not enough information provided to determine the singer's city of origin.", "em": 0}, "ce": {"answer": "Not provided in the given context", "em": 0}}}
+{"qid": "5ac176555542994d76dcce47", "golds": ["journalist"], "arms": {"bm25": {"answer": "Journalist/Satirist", "em": 0}, "ce": {"answer": "Journalist/Satirist", "em": 0}}}
+{"qid": "5abbf3845542993f40c73c2e", "golds": ["The Go-Go's,"], "arms": {"bm25": {"answer": "Sunny Day Real Estate", "em": 0}, "ce": {"answer": "Ivy", "em": 0}}}
+{"qid": "5a8781b65542993e715abf8f", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5a807ea1554299485f598624", "golds": ["Presbyterian Church"], "arms": {"bm25": {"answer": "The Presbyterian Church (USA)", "em": 0}, "ce": {"answer": "Presbyterian Church (USA)", "em": 0}}}
+{"qid": "5a8ec7cc5542995a26add518", "golds": ["Girlfriends"], "arms": {"bm25": {"answer": "Popular Science", "em": 0}, "ce": {"answer": "Popular Science", "em": 0}}}
+{"qid": "5a7a978555429941d65f26db", "golds": ["Paper Trail"], "arms": {"bm25": {"answer": "\"Paper Trail\"", "em": 1}, "ce": {"answer": "\"If Tomorrow Comes...\"", "em": 0}}}
+{"qid": "5a7fc70155429969796c1b59", "golds": ["AngloGold Ashanti"], "arms": {"bm25": {"answer": "AngloGold Ashanti", "em": 1}, "ce": {"answer": "AngloGold Ashanti", "em": 1}}}
+{"qid": "5ab84d5a55429916710eb028", "golds": ["Dallas Cowboys"], "arms": {"bm25": {"answer": "The horse-collar tackle is most closely associated with Roy Williams, who was drafted by the Dallas Cowboys in the 20", "em": 0}, "ce": {"answer": "None of the provided context mentions a player drafted by an NFL team in 2002, let alone one associated", "em": 0}}}
+{"qid": "5a7f392b55429934daa2fd26", "golds": ["Tel Aviv"], "arms": {"bm25": {"answer": "Damian Barton manages Derry Senior football team.", "em": 0}, "ce": {"answer": "Jordi Cruyff manages Maccabi Tel Aviv.", "em": 0}}}
+{"qid": "5a877dd65542993e715abf79", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5a8b99c355429950cd6afd28", "golds": ["Columbus"], "arms": {"bm25": {"answer": "Columbus", "em": 1}, "ce": {"answer": "Columbus", "em": 1}}}
+{"qid": "5a8e2ba05542995085b373b8", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5a74581555429979e2882912", "golds": ["Mitsubishi"], "arms": {"bm25": {"answer": "Mitsubishi Motors", "em": 0}, "ce": {"answer": "Mitsubishi Motors", "em": 0}}}
+{"qid": "5ac1d40c5542994d76dccef5", "golds": ["143,372"], "arms": {"bm25": {"answer": "69", "em": 0}, "ce": {"answer": "Cedar", "em": 0}}}
+{"qid": "5a7c6b6655429935c91b519a", "golds": ["town meeting legislative body"], "arms": {"bm25": {"answer": "Town meeting legislative body", "em": 1}, "ce": {"answer": "Town Meeting Legislative Body", "em": 1}}}
+{"qid": "5a73522d5542994cef4bc541", "golds": ["526"], "arms": {"bm25": {"answer": "4,955", "em": 0}, "ce": {"answer": "203", "em": 0}}}
+{"qid": "5a822a5e55429926c1cdae43", "golds": ["film director, film producer, writer"], "arms": {"bm25": {"answer": "Film directors", "em": 0}, "ce": {"answer": "Film director", "em": 0}}}
+{"qid": "5a7b1023554299042af8f6c2", "golds": ["Ride a Wild Pony"], "arms": {"bm25": {"answer": "Ride a Wild Pony", "em": 1}, "ce": {"answer": "Ride a Wild Pony", "em": 1}}}
+{"qid": "5a84574455429933447460e6", "golds": ["2015"], "arms": {"bm25": {"answer": "2015", "em": 1}, "ce": {"answer": "2015", "em": 1}}}
+{"qid": "5a89a02955429946c8d6e975", "golds": ["Voices of Iraq"], "arms": {"bm25": {"answer": "Voices of Iraq", "em": 1}, "ce": {"answer": "Voices of Iraq", "em": 1}}}
+{"qid": "5abdf1fe55429976d4830a31", "golds": ["media for the 65.8 million"], "arms": {"bm25": {"answer": "None of the provided context mentions a website created by Peter Dhao or any slogan associated with it. The context is about", "em": 0}, "ce": {"answer": "There is no information provided about a website created by Peter Dhao or any slogan associated with it. The context provided does", "em": 0}}}
+{"qid": "5ae1e9fd5542997f29b3c1a1", "golds": ["John Francis Kelly"], "arms": {"bm25": {"answer": "John F. Kelly", "em": 0}, "ce": {"answer": "John F. Kelly", "em": 0}}}
+{"qid": "5a77b0395542997042120ae1", "golds": ["Jessica Lange"], "arms": {"bm25": {"answer": "Jessica Lange", "em": 1}, "ce": {"answer": "Rebecca Makkai", "em": 0}}}
+{"qid": "5a79c8fa5542994bb94570a1", "golds": ["technical director"], "arms": {"bm25": {"answer": "Veda Hlubinka-Cook was the technical director for the computer game \"The Last Express\".", "em": 0}, "ce": {"answer": "Technical director", "em": 1}}}
+{"qid": "5ae21937554299234fd043d3", "golds": ["Philip Livingston"], "arms": {"bm25": {"answer": "Philip Livingston", "em": 1}, "ce": {"answer": "Philip Livingston", "em": 1}}}
+{"qid": "5a7cdcbf55429907fabef04f", "golds": ["Still Kicking: Six Artistic Women of Project Arts & Longevity"], "arms": {"bm25": {"answer": "Still Kicking: Six Artistic Women of Project Arts & Longevity", "em": 1}, "ce": {"answer": "Still Kicking: Six Artistic Women of Project Arts & Longevity", "em": 1}}}
+{"qid": "5ac51a055542994611c8b390", "golds": ["Mossad"], "arms": {"bm25": {"answer": "None", "em": 0}, "ce": {"answer": "National Institute of Technology", "em": 0}}}
+{"qid": "5a78c7db55429974737f7882", "golds": ["Christina Ricci"], "arms": {"bm25": {"answer": "Christina Ricci", "em": 1}, "ce": {"answer": "Christina Ricci", "em": 1}}}
+{"qid": "5a82e25555429954d2e2ebbf", "golds": ["Eva Ibbotson"], "arms": {"bm25": {"answer": "Patricia Veryan", "em": 0}, "ce": {"answer": "Patricia Veryan", "em": 0}}}
+{"qid": "5ab42b8955429942dd415ea6", "golds": ["Bourbon County"], "arms": {"bm25": {"answer": "Bourbon County", "em": 1}, "ce": {"answer": "Bourbon County", "em": 1}}}
+{"qid": "5a8db916554299441c6ba057", "golds": ["Hindi"], "arms": {"bm25": {"answer": "Tamil", "em": 0}, "ce": {"answer": "Hindi", "em": 1}}}
+{"qid": "5a79ca585542996c55b2dc71", "golds": ["John Gielgud"], "arms": {"bm25": {"answer": "John Gielgud", "em": 1}, "ce": {"answer": "John Gielgud", "em": 1}}}
+{"qid": "5abd6cb955429933744ab7cd", "golds": ["Norse"], "arms": {"bm25": {"answer": "Norse mythology", "em": 0}, "ce": {"answer": "Norse mythology", "em": 0}}}
+{"qid": "5a7642f7554299109176e6e8", "golds": ["Luca Parmitano"], "arms": {"bm25": {"answer": "Luca Parmitano", "em": 1}, "ce": {"answer": "Luca Parmitano", "em": 1}}}
+{"qid": "5a88a42f554299206df2b317", "golds": ["the growing literary style called New Journalism"], "arms": {"bm25": {"answer": "New Journalism", "em": 0}, "ce": {"answer": "New Journalism", "em": 0}}}
+{"qid": "5a8c90db554299653c1aa0bf", "golds": ["yes"], "arms": {"bm25": {"answer": "No", "em": 0}, "ce": {"answer": "No", "em": 0}}}
+{"qid": "5a763986554299109176e6bd", "golds": ["Pierre Nlend Womé"], "arms": {"bm25": {"answer": "Christian Poulsen", "em": 0}, "ce": {"answer": "Christian Poulsen", "em": 0}}}
+{"qid": "5a7cc0d4554299452d57ba07", "golds": ["215th"], "arms": {"bm25": {"answer": "Nagothane, Maharashtra", "em": 0}, "ce": {"answer": "Westchase, Houston, Texas", "em": 0}}}
+{"qid": "5a86113355429960ec39b618", "golds": ["Jānis Strazdiņš"], "arms": {"bm25": {"answer": "Georgia Brown", "em": 0}, "ce": {"answer": "Sarah McLachlan", "em": 0}}}
+{"qid": "5a722fae55429971e9dc9343", "golds": ["Chloë Alexandra Adele Emily Agnew"], "arms": {"bm25": {"answer": "Adele King", "em": 0}, "ce": {"answer": "Irene McCoubrey", "em": 0}}}
+{"qid": "5a7af4cd55429931da12c9a6", "golds": ["Karachi, Pakistan"], "arms": {"bm25": {"answer": "New York", "em": 0}, "ce": {"answer": "New York", "em": 0}}}
+{"qid": "5a7d9bc65542990b8f5039cb", "golds": ["Big 12 Conference"], "arms": {"bm25": {"answer": "Big 12 Conference", "em": 1}, "ce": {"answer": "Big 12 Conference", "em": 1}}}
+{"qid": "5adbd70c55429947ff173843", "golds": ["Personal History"], "arms": {"bm25": {"answer": "The Black and White Ball", "em": 0}, "ce": {"answer": "The Washington Post publisher Katharine Graham", "em": 0}}}
+{"qid": "5a7e04b05542995f4f40238a", "golds": ["Vanarama"], "arms": {"bm25": {"answer": "National League", "em": 0}, "ce": {"answer": "National League", "em": 0}}}
+{"qid": "5a90b6985542990a984936c2", "golds": ["\"The Royal Family\""], "arms": {"bm25": {"answer": "Emily Blunt", "em": 0}, "ce": {"answer": "Emily Blunt", "em": 0}}}
+{"qid": "5ae164685542997b2ef7d1cb", "golds": ["Thomas Warburton"], "arms": {"bm25": {"answer": "Tom Warburton", "em": 0}, "ce": {"answer": "Tom Warburton", "em": 0}}}
+{"qid": "5a86fde6554299211dda2b7f", "golds": ["IT"], "arms": {"bm25": {"answer": "Business process outsourcing (BPO) services.", "em": 0}, "ce": {"answer": "Business process outsourcing (BPO) services.", "em": 0}}}
+{"qid": "5a802e135542992bc0c4a6c7", "golds": ["play-by-post role-playing game"], "arms": {"bm25": {"answer": "Play-by-post role-playing game", "em": 1}, "ce": {"answer": "Play-by-post role-playing game", "em": 1}}}
+{"qid": "5ac31456554299741d48a1b4", "golds": ["Lawson"], "arms": {"bm25": {"answer": "American Music Club", "em": 0}, "ce": {"answer": "American Music Club", "em": 0}}}
+{"qid": "5ae0a6ea5542993d6555ebe9", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5a872e8e5542991e7718170c", "golds": ["portrait"], "arms": {"bm25": {"answer": "Portraits", "em": 0}, "ce": {"answer": "Portraits", "em": 0}}}
+{"qid": "5a7265825542997f827839a3", "golds": ["a silver medal"], "arms": {"bm25": {"answer": "No Olympic medal.", "em": 0}, "ce": {"answer": "Jermain Mackey", "em": 0}}}
+{"qid": "5abe2b0155429976d4830a83", "golds": ["26–30 August 1914"], "arms": {"bm25": {"answer": "The Battle of Tannenberg in 1914.", "em": 0}, "ce": {"answer": "The Battle of Tannenberg in August 1914.", "em": 0}}}
+{"qid": "5ae135fb55429920d523431f", "golds": ["WB Television Network"], "arms": {"bm25": {"answer": "Time for Terry", "em": 0}, "ce": {"answer": "WB Television Network", "em": 1}}}
+{"qid": "5a8f0a01554299458435d539", "golds": ["Indianapolis"], "arms": {"bm25": {"answer": "There is no information provided about a band named Telos or their formation city.", "em": 0}, "ce": {"answer": "New York City", "em": 0}}}
+{"qid": "5ab40e1c5542996a3a969f00", "golds": ["1988"], "arms": {"bm25": {"answer": "There is no information provided in the given context that mentions Lawrence Turman producing a film with a character named \"Johnny", "em": 0}, "ce": {"answer": "1988", "em": 1}}}
+{"qid": "5ab28c89554299340b525513", "golds": ["Reichsführer-SS"], "arms": {"bm25": {"answer": "SS-Oberst-Gruppenführer", "em": 0}, "ce": {"answer": "SS-Oberst-Gruppenführer", "em": 0}}}
+{"qid": "5a87e3d65542993e715abff8", "golds": ["Game of Thrones"], "arms": {"bm25": {"answer": "Game of Thrones", "em": 1}, "ce": {"answer": "Game of Thrones", "em": 1}}}
+{"qid": "5addfc425542997dc7907101", "golds": ["Esteban Ocon"], "arms": {"bm25": {"answer": "Esteban Ocon", "em": 1}, "ce": {"answer": "Esteban Ocon", "em": 1}}}
+{"qid": "5ab576dc5542997d4ad1f13d", "golds": ["Carnatic music"], "arms": {"bm25": {"answer": "Carnatic music", "em": 1}, "ce": {"answer": "Carnatic music", "em": 1}}}
+{"qid": "5a8d8eb5554299068b959d3a", "golds": ["Parsifal"], "arms": {"bm25": {"answer": "Manon", "em": 0}, "ce": {"answer": "Parsifal", "em": 1}}}
+{"qid": "5ac5101455429924173fb592", "golds": ["Every Rose Has Its Thorn"], "arms": {"bm25": {"answer": "Rock of Love", "em": 0}, "ce": {"answer": "All 4 Love", "em": 0}}}
+{"qid": "5ab91f98554299753720f70d", "golds": ["Gangsta's Paradise"], "arms": {"bm25": {"answer": "Gangsta's Paradise", "em": 1}, "ce": {"answer": "\"Coolio's Greatest Hits\" album, which includes \"Fantastic Voyage,\" samples from Stevie Wonder's \"Pastime", "em": 0}}}
+{"qid": "5ae6371155429929b0807af1", "golds": ["Polka"], "arms": {"bm25": {"answer": "Amsterdam Polka", "em": 0}, "ce": {"answer": "The Amsterdam Polka", "em": 0}}}
+{"qid": "5ac1bff05542994ab5c67dfc", "golds": ["Francisco Rafael Arellano Félix"], "arms": {"bm25": {"answer": "Rafael Cedeño Hernández", "em": 0}, "ce": {"answer": "Benjamín Arellano Félix", "em": 0}}}
+{"qid": "5a7c2f145542996dd594b8b4", "golds": ["McG"], "arms": {"bm25": {"answer": "Kevin Costner", "em": 0}, "ce": {"answer": "Amber Heard", "em": 0}}}
+{"qid": "5a81e4e8554299676cceb140", "golds": ["Campbellsville University"], "arms": {"bm25": {"answer": "Western Kentucky University", "em": 0}, "ce": {"answer": "University of Minnesota", "em": 0}}}
+{"qid": "5a83041355429966c78a6ae8", "golds": ["film director"], "arms": {"bm25": {"answer": "Directing", "em": 0}, "ce": {"answer": "Director", "em": 0}}}
+{"qid": "5ab7fa7b5542992aa3b8c897", "golds": ["punk rock"], "arms": {"bm25": {"answer": "Punk rock and rock.", "em": 0}, "ce": {"answer": "Punk rock and rock", "em": 0}}}
+{"qid": "5a8cee9b554299441c6b9f87", "golds": ["GE Appliances"], "arms": {"bm25": {"answer": "Hotpoint", "em": 0}, "ce": {"answer": "Hotpoint", "em": 0}}}
+{"qid": "5ab67bf255429954757d32f5", "golds": ["McLean, Virginia"], "arms": {"bm25": {"answer": "Proginet", "em": 0}, "ce": {"answer": "Booz Allen Hamilton Inc., headquartered in Washington, D.C.", "em": 0}}}
+{"qid": "5a77d65055429949eeb29f7b", "golds": ["250"], "arms": {"bm25": {"answer": "4", "em": 0}, "ce": {"answer": "5", "em": 0}}}
+{"qid": "5a7f3f7c55429934daa2fd45", "golds": ["The Futureheads"], "arms": {"bm25": {"answer": "Marcy Playground", "em": 0}, "ce": {"answer": "Marcy Playground", "em": 0}}}
+{"qid": "5ade811e5542992fa25da7a0", "golds": ["1851"], "arms": {"bm25": {"answer": "1851", "em": 1}, "ce": {"answer": "1851", "em": 1}}}
+{"qid": "5a7633ff5542994ccc918712", "golds": ["1932"], "arms": {"bm25": {"answer": "1932", "em": 1}, "ce": {"answer": "1932", "em": 1}}}
+{"qid": "5a88a1475542997e5c09a646", "golds": ["Salvia"], "arms": {"bm25": {"answer": "Salvia", "em": 1}, "ce": {"answer": "Arachis", "em": 0}}}
+{"qid": "5a8887a055429938390d3f72", "golds": ["Rocky Boy's Indian Reservation"], "arms": {"bm25": {"answer": "Rocky Boy's Indian Reservation", "em": 1}, "ce": {"answer": "Rocky Boy's Indian Reservation", "em": 1}}}
+{"qid": "5a86399e5542994775f60733", "golds": ["Punjabi/Pashtun"], "arms": {"bm25": {"answer": "Norwegian", "em": 0}, "ce": {"answer": "Norwegian", "em": 0}}}
+{"qid": "5a84c0765542991dd0999dd9", "golds": ["Gary Lightbody"], "arms": {"bm25": {"answer": "Rita Redshoes", "em": 0}, "ce": {"answer": "Rita Redshoes", "em": 0}}}
+{"qid": "5adf17f95542995ec70e8f6c", "golds": ["Australian"], "arms": {"bm25": {"answer": "Australia", "em": 0}, "ce": {"answer": "Australia", "em": 0}}}
+{"qid": "5a7f5ab65542995d8a8dde43", "golds": ["Cosmopolitan of Las Vegas"], "arms": {"bm25": {"answer": "The Cosmopolitan of Las Vegas", "em": 1}, "ce": {"answer": "The Cosmopolitan of Las Vegas", "em": 1}}}
+{"qid": "5a8cec13554299441c6b9f7d", "golds": ["yes"], "arms": {"bm25": {"answer": "No", "em": 0}, "ce": {"answer": "No", "em": 0}}}
+{"qid": "5abce9ca554299114383a193", "golds": ["racehorse breeder and owner"], "arms": {"bm25": {"answer": "None of the Terry's are related to football. The question seems to be based on a mix-up.", "em": 0}, "ce": {"answer": "Striker", "em": 0}}}
+{"qid": "5a7a1b845542990783324e5f", "golds": ["Stadio Olimpico"], "arms": {"bm25": {"answer": "Wembley Stadium in London, England", "em": 0}, "ce": {"answer": "Stadio Olimpico in Rome, Italy", "em": 0}}}
+{"qid": "5a7363ec5542991f29ee2dd7", "golds": ["Key West"], "arms": {"bm25": {"answer": "Key West", "em": 1}, "ce": {"answer": "Key West", "em": 1}}}
+{"qid": "5a77321355429972597f1493", "golds": ["The Agronomist"], "arms": {"bm25": {"answer": "The Agronomist", "em": 1}, "ce": {"answer": "The Agronomist", "em": 1}}}
+{"qid": "5ab5cd4f554299488d4d9a31", "golds": ["In Pursuit"], "arms": {"bm25": {"answer": "American Music Club", "em": 0}, "ce": {"answer": "Metal Church", "em": 0}}}
+{"qid": "5a83411655429966c78a6b5d", "golds": ["Justin Spitzer"], "arms": {"bm25": {"answer": "Peter Reckell", "em": 0}, "ce": {"answer": "Peter Reckell", "em": 0}}}
+{"qid": "5a8d50fb55429941ae14dfa2", "golds": ["75 mi"], "arms": {"bm25": {"answer": "75 miles", "em": 0}, "ce": {"answer": "75", "em": 0}}}
+{"qid": "5ae80919554299540e5a56f6", "golds": ["The Changing Scottish Landscape"], "arms": {"bm25": {"answer": "1991's \"The Changing Scottish Landscape\"", "em": 0}, "ce": {"answer": "1991's \"The Changing Scottish Landscape\"", "em": 0}}}
+{"qid": "5ab2b8fe5542991669774070", "golds": ["Budget Rent a Car"], "arms": {"bm25": {"answer": "ACRISS Members include Avis, Budget, Alamo, National, Enterprise, Europcar, Hertz and Mag", "em": 0}, "ce": {"answer": "Enterprise Rent-A-Car", "em": 0}}}
+{"qid": "5a8d0efd5542994ba4e3dbc6", "golds": ["Warsaw, Poland"], "arms": {"bm25": {"answer": "Warsaw", "em": 0}, "ce": {"answer": "Warsaw", "em": 0}}}
+{"qid": "5a7125b95542994082a3e5d5", "golds": ["Gardnerville"], "arms": {"bm25": {"answer": "Gardnerville", "em": 1}, "ce": {"answer": "Gardnerville", "em": 1}}}
+{"qid": "5a8a6a2155429930ff3c0dd0", "golds": ["Kenneth Eliot Flach"], "arms": {"bm25": {"answer": "Ken Flach", "em": 0}, "ce": {"answer": "Ken Flach", "em": 0}}}
+{"qid": "5ae834e95542997ec272776a", "golds": ["Highwayman"], "arms": {"bm25": {"answer": "The Highwayman", "em": 1}, "ce": {"answer": "The Highwayman", "em": 1}}}
+{"qid": "5a7ab51055429927d897bef6", "golds": ["1961"], "arms": {"bm25": {"answer": "1992", "em": 0}, "ce": {"answer": "1992", "em": 0}}}
+{"qid": "5ae250b45542996483e64977", "golds": ["former Speaker of the U.S. House of Representatives"], "arms": {"bm25": {"answer": "Former Speaker of the House", "em": 0}, "ce": {"answer": "Political consultant and strategist", "em": 0}}}
+{"qid": "5a733c925542991f9a20c6b7", "golds": ["cocktails"], "arms": {"bm25": {"answer": "Names of drinks and animals", "em": 0}, "ce": {"answer": "Drinks", "em": 0}}}
+{"qid": "5a7e5ec25542991319bc947a", "golds": ["Květa Peschke"], "arms": {"bm25": {"answer": "Aisam-ul-Haq Qureshi", "em": 0}, "ce": {"answer": "Květa Peschke", "em": 1}}}
+{"qid": "5adbf2805542994650320c15", "golds": ["The High Sheriff changes every March."], "arms": {"bm25": {"answer": "1943", "em": 0}, "ce": {"answer": "The context provided does not contain information about when the role of William Vere Reeve King-Fane changes.", "em": 0}}}
+{"qid": "5a845e9055429933447460ec", "golds": ["Sacramento Kings"], "arms": {"bm25": {"answer": "Oklahoma", "em": 0}, "ce": {"answer": "Buddy Hield plays for Oklahoma.", "em": 0}}}
+{"qid": "5a820c0c554299676cceb1fc", "golds": ["All Nippon"], "arms": {"bm25": {"answer": "Vanilla Air", "em": 0}, "ce": {"answer": "Vanilla Air", "em": 0}}}
+{"qid": "5a88bd1d554299206df2b357", "golds": ["season six, episode 5, \"Invasion\""], "arms": {"bm25": {"answer": "None of the provided characters are from Grey's Anatomy, and the information given does not specify when Rev James Lawson debuted.", "em": 0}, "ce": {"answer": "2012", "em": 0}}}
+{"qid": "5a79332555429907847277e7", "golds": ["Juan Carlos Onetti"], "arms": {"bm25": {"answer": "Juan Carlos Onetti", "em": 1}, "ce": {"answer": "Juan Carlos Onetti", "em": 1}}}
+{"qid": "5abd516a5542992ac4f3825c", "golds": ["Hindi"], "arms": {"bm25": {"answer": "The question cannot be answered with the provided information.", "em": 0}, "ce": {"answer": "Not specified in the given context.", "em": 0}}}
+{"qid": "5add26075542994ed6169c9c", "golds": ["WAMC"], "arms": {"bm25": {"answer": "WAMC", "em": 1}, "ce": {"answer": "WAMC", "em": 1}}}
+{"qid": "5a901f735542990a98493591", "golds": ["second"], "arms": {"bm25": {"answer": "Not specified in the given context.", "em": 0}, "ce": {"answer": "1", "em": 0}}}
+{"qid": "5ab840e255429934fafe6d3b", "golds": ["New Jewel Movement"], "arms": {"bm25": {"answer": "New Joint Endeavor for Welfare, Education, and Liberation (NJM)", "em": 0}, "ce": {"answer": "New Joint Endeavor for Welfare, Education, and Liberation (NJM)", "em": 0}}}
+{"qid": "5ac3d4b6554299204fd21e93", "golds": ["Paper"], "arms": {"bm25": {"answer": "Paper", "em": 1}, "ce": {"answer": "Paper", "em": 1}}}
+{"qid": "5a73b2cb55429908901be31a", "golds": ["Maria von Trapp"], "arms": {"bm25": {"answer": "Maria von Trapp", "em": 1}, "ce": {"answer": "Maria von Trapp", "em": 1}}}
+{"qid": "5ac29cf8554299218029dac2", "golds": ["Rowan Blanchard"], "arms": {"bm25": {"answer": "Matthew Tishler", "em": 0}, "ce": {"answer": "Matthew Tishler", "em": 0}}}
+{"qid": "5ae686535542996d980e7bdc", "golds": ["Ringo Starr"], "arms": {"bm25": {"answer": "Barbara Bach", "em": 0}, "ce": {"answer": "Barbara Bach", "em": 0}}}
+{"qid": "5a8aa1685542992d82986f32", "golds": ["Beijing Dance Academy"], "arms": {"bm25": {"answer": "None of the provided information specifies the dance academy the starring actress from The Glory of Tang Dynasty graduated from.", "em": 0}, "ce": {"answer": "Beijing Dance Academy", "em": 1}}}
+{"qid": "5a7d7deb5542995f4f402282", "golds": ["Shifty Shellshock"], "arms": {"bm25": {"answer": "Paul Oakenfold", "em": 0}, "ce": {"answer": "Bret Mazur", "em": 0}}}
+{"qid": "5a8c622a554299240d9c2142", "golds": ["Ursula Kroeber Le Guin"], "arms": {"bm25": {"answer": "Ursula K. Le Guin", "em": 0}, "ce": {"answer": "Ursula K. Le Guin", "em": 0}}}
+{"qid": "5a7b81715542997c3ec971d4", "golds": ["Hugo Award"], "arms": {"bm25": {"answer": "The Dagger and the Coin was not nominated for an award in 2017. The first volume of the series", "em": 0}, "ce": {"answer": "The Dragon Award", "em": 0}}}
+{"qid": "5ae0c29c5542993d6555ec46", "golds": ["professional wrestler, actor, and hip hop musician"], "arms": {"bm25": {"answer": "Musician", "em": 0}, "ce": {"answer": "WWE wrestler", "em": 0}}}
+{"qid": "5a7c290c5542990527d55468", "golds": ["Oklahoma"], "arms": {"bm25": {"answer": "Oklahoma", "em": 1}, "ce": {"answer": "Oklahoma", "em": 1}}}
+{"qid": "5a876f785542993e715abf42", "golds": ["musician, editor and composer."], "arms": {"bm25": {"answer": "John Carpenter", "em": 0}, "ce": {"answer": "John Carpenter", "em": 0}}}
+{"qid": "5ae1e6d95542997283cd22c3", "golds": ["Jordan Peele"], "arms": {"bm25": {"answer": "Jordan Peele and Alex Rubens", "em": 0}, "ce": {"answer": "Jordan Peele and Alex Rubens", "em": 0}}}
+{"qid": "5ae10df355429920d52342ac", "golds": ["Warrnambool, Victoria"], "arms": {"bm25": {"answer": "Not provided in the given context.", "em": 0}, "ce": {"answer": "Not provided in the given context.", "em": 0}}}
+{"qid": "5ae4d8475542993aec5ec0e0", "golds": ["Giuseppe Verdi"], "arms": {"bm25": {"answer": "Georges Prêtre", "em": 0}, "ce": {"answer": "Jeremy Sams", "em": 0}}}
+{"qid": "5ab94cf0554299743d22eade", "golds": ["Warrington"], "arms": {"bm25": {"answer": "Naval Air Station Ellyson Field was an auxiliary facility to Naval Air Station Pensacola.", "em": 0}, "ce": {"answer": "Naval Air Station Ellyson Field was an auxiliary facility to Naval Air Station Pensacola.", "em": 0}}}
+{"qid": "5ae479745542996836b02cb1", "golds": ["Sex Drive"], "arms": {"bm25": {"answer": "Sex Drive", "em": 1}, "ce": {"answer": "Sex Drive", "em": 1}}}
+{"qid": "5a852cd05542997b5ce3ffb0", "golds": ["Bay of Fundy"], "arms": {"bm25": {"answer": "Bay of Fundy", "em": 1}, "ce": {"answer": "Bay of Fundy", "em": 1}}}
+{"qid": "5a8babf05542996e8ac8899e", "golds": ["Daviesia"], "arms": {"bm25": {"answer": "Daviesia", "em": 1}, "ce": {"answer": "Daviesia", "em": 1}}}
+{"qid": "5a82fcbd55429954d2e2ebe8", "golds": ["Maria Szraiber"], "arms": {"bm25": {"answer": "Maria Szraiber", "em": 1}, "ce": {"answer": "Maria Szraiber", "em": 1}}}
+{"qid": "5a77c60255429967ab105285", "golds": ["theory of direct scattering and inverse scattering"], "arms": {"bm25": {"answer": "Identity control theory", "em": 0}, "ce": {"answer": "Identity control theory", "em": 0}}}
+{"qid": "5adf39ce5542995534e8c76d", "golds": ["Shakespeare performances"], "arms": {"bm25": {"answer": "A child.", "em": 0}, "ce": {"answer": "Karan Kapoor's maternal grandfather delivered Shakespeare plays.", "em": 0}}}
+{"qid": "5ae694a15542991bbc976141", "golds": ["defence of the Cathedral"], "arms": {"bm25": {"answer": "Minister Pool is historically important to the defense of Lichfield Cathedral.", "em": 0}, "ce": {"answer": "Minister Pool is important to the Black Country and the West Midlands as it lies near Lichfield Cathedral and has historical", "em": 0}}}
+{"qid": "5ae13bca55429901ffe4ae17", "golds": ["Debbie Harry"], "arms": {"bm25": {"answer": "Debbie Harry", "em": 1}, "ce": {"answer": "Debbie Harry", "em": 1}}}
+{"qid": "5a8a265b5542992d82986ecc", "golds": ["Frederick King Keller"], "arms": {"bm25": {"answer": "Ian Schneider", "em": 0}, "ce": {"answer": "Ian Schneider", "em": 0}}}
+{"qid": "5a77121a5542994aec3b71db", "golds": ["The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers."], "arms": {"bm25": {"answer": "Charley and the Angel", "em": 0}, "ce": {"answer": "Charley and the Angel", "em": 0}}}
+{"qid": "5ae6911955429908198fa626", "golds": ["Mrs. Eastwood & Company"], "arms": {"bm25": {"answer": "Francesca Eastwood", "em": 0}, "ce": {"answer": "M.F.A. starred Francesca Eastwood, who is known for starring in \"Mrs. Eastwood & Company\".", "em": 0}}}
+{"qid": "5ae53de455429908b6326599", "golds": ["Delaware River"], "arms": {"bm25": {"answer": "Delaware River", "em": 1}, "ce": {"answer": "Brodhead Creek", "em": 0}}}
+{"qid": "5a813b6f55429903bc27b951", "golds": ["Oryzomyini"], "arms": {"bm25": {"answer": "Oryzomyini", "em": 1}, "ce": {"answer": "Oryzomyini", "em": 1}}}
+{"qid": "5a84b4005542991dd0999d99", "golds": ["October 16, 2015"], "arms": {"bm25": {"answer": "2015", "em": 0}, "ce": {"answer": "2015", "em": 0}}}
+{"qid": "5a8cca64554299653c1aa125", "golds": ["British Army"], "arms": {"bm25": {"answer": "James Hill was an officer in the British Army, commanding the 3rd Parachute Brigade during World War II.", "em": 0}, "ce": {"answer": "James Hill served as commander of the 3rd Parachute Brigade during World War II. John Vereker,", "em": 0}}}
+{"qid": "5ab8ed305542991b5579f046", "golds": ["The United States of America"], "arms": {"bm25": {"answer": "United States", "em": 0}, "ce": {"answer": "United States", "em": 0}}}
+{"qid": "5ae0b2f25542993d6555ec1c", "golds": ["hamburgers"], "arms": {"bm25": {"answer": "Broasted chicken meals and rotis.", "em": 0}, "ce": {"answer": "KFC specializes in fried chicken.", "em": 0}}}
+{"qid": "5ae207a65542994d89d5b317", "golds": ["Oplismenus"], "arms": {"bm25": {"answer": "Lavatera", "em": 0}, "ce": {"answer": "Oplismenus", "em": 1}}}
+{"qid": "5a75383a5542996c70cfaeb3", "golds": ["Ulf Dietrich Merbold"], "arms": {"bm25": {"answer": "Mirosław Hermaszewski", "em": 0}, "ce": {"answer": "Mirosław Hermaszewski", "em": 0}}}
+{"qid": "5ae3fd2c5542995dadf2428f", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5abffd10554299012d1db556", "golds": ["Lombardy"], "arms": {"bm25": {"answer": "Italian Alps", "em": 0}, "ce": {"answer": "Italian Alps", "em": 0}}}
+{"qid": "5a8f812755429918e830d245", "golds": ["a governor"], "arms": {"bm25": {"answer": "Robert M. Fomon was a governor of the New York Stock Exchange located at 11 Wall Street.", "em": 0}, "ce": {"answer": "Robert M. Fomon was a governor of the New York Stock Exchange located at 11 Wall Street, Lower Manhattan", "em": 0}}}
+{"qid": "5ae520315542993aec5ec152", "golds": ["Taylor Swift"], "arms": {"bm25": {"answer": "Taylor Swift", "em": 1}, "ce": {"answer": "Taylor Swift", "em": 1}}}
+{"qid": "5a7631cd5542994ccc91870c", "golds": ["Franconia, New Hampshire"], "arms": {"bm25": {"answer": "The seminar Jeanne Marie Beaumont directed in 2007-2010 is located at The Frost", "em": 0}, "ce": {"answer": "Beaumont", "em": 0}}}
+{"qid": "5ac26eed55429951e9e685bf", "golds": ["the U.S. state of Kansas"], "arms": {"bm25": {"answer": "County Kilkenny", "em": 0}, "ce": {"answer": "Doniphan County, Kansas.", "em": 0}}}
+{"qid": "5a7e37095542995ed0d166d5", "golds": ["Sinclair Hill"], "arms": {"bm25": {"answer": "Sinclair Hill", "em": 1}, "ce": {"answer": "Sinclair Hill", "em": 1}}}
+{"qid": "5adf72d35542992d7e9f9369", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5a876b265542993e715abf33", "golds": ["and lead guitarist"], "arms": {"bm25": {"answer": "Billie Joe Armstrong", "em": 0}, "ce": {"answer": "Stephen Christian", "em": 0}}}
+{"qid": "5a77ddb855429967ab1052d8", "golds": ["Cynthia Ann Stephanie \"Cyndi\" Lauper"], "arms": {"bm25": {"answer": "Cyndi Lauper", "em": 0}, "ce": {"answer": "Cyndi Lauper", "em": 0}}}
+{"qid": "5adcc3ed5542994d58a2f6c4", "golds": ["the \"First Family of Competitive Eating\""], "arms": {"bm25": {"answer": "The First Family of Competitive Eating", "em": 1}, "ce": {"answer": "The First Family of Competitive Eating", "em": 1}}}
+{"qid": "5a76f5b155429972597f1400", "golds": ["Philip Morris Glass"], "arms": {"bm25": {"answer": "None of the provided composers were born in 1937 and pioneered minimal music. Steve Reich was born in", "em": 0}, "ce": {"answer": "Steve Reich", "em": 0}}}
+{"qid": "5ae2c696554299495565db32", "golds": ["Keeper of the Privy Seal of Scotland"], "arms": {"bm25": {"answer": "Duke of Lauderdale", "em": 0}, "ce": {"answer": "Keeper of the Great Seal of Scotland", "em": 0}}}
+{"qid": "5a875154554299211dda2be7", "golds": ["Mickey Gilley"], "arms": {"bm25": {"answer": "Sherwood Cryer", "em": 0}, "ce": {"answer": "Sherwood Cryer", "em": 0}}}
+{"qid": "5a84cf175542992a431d1aa2", "golds": ["Ratatat"], "arms": {"bm25": {"answer": "Lilys", "em": 0}, "ce": {"answer": "Lilys", "em": 0}}}
+{"qid": "5ae675245542991bbc9760dc", "golds": ["Merovech"], "arms": {"bm25": {"answer": "Childericus", "em": 0}, "ce": {"answer": "Childericus", "em": 0}}}
+{"qid": "5a80b0565542996402f6a5f0", "golds": ["Adorable"], "arms": {"bm25": {"answer": "Adorable", "em": 1}, "ce": {"answer": "Adorable", "em": 1}}}
+{"qid": "5adde3a45542997545bbbdc2", "golds": ["yes"], "arms": {"bm25": {"answer": "Yes", "em": 1}, "ce": {"answer": "Yes", "em": 1}}}
+{"qid": "5ac26b7f55429951e9e685ae", "golds": ["hardcore"], "arms": {"bm25": {"answer": "Johann Sebastian Bach, Karlheinz Stockhausen, Terry Riley, Philip Glass, and Moondog.", "em": 0}, "ce": {"answer": "Johann Sebastian Bach, Karlheinz Stockhausen, Terry Riley, Philip Glass, Moondog, and possibly", "em": 0}}}
+{"qid": "5adf39295542992d7e9f92df", "golds": ["Apium"], "arms": {"bm25": {"answer": "Apium", "em": 1}, "ce": {"answer": "Elodea", "em": 0}}}
+{"qid": "5abc19705542993a06baf86e", "golds": ["Dutch"], "arms": {"bm25": {"answer": "Dutch", "em": 1}, "ce": {"answer": "Dutch", "em": 1}}}
+{"qid": "5ae6914755429908198fa627", "golds": ["January 2001"], "arms": {"bm25": {"answer": "January", "em": 0}, "ce": {"answer": "July", "em": 0}}}
+{"qid": "5adc9b7a5542994d58a2f679", "golds": ["American"], "arms": {"bm25": {"answer": "Nashville", "em": 0}, "ce": {"answer": "United States", "em": 0}}}
+{"qid": "5a721dfd55429971e9dc928b", "golds": ["Thorgan Ganael Francis Hazard"], "arms": {"bm25": {"answer": "Thorgan Hazard", "em": 0}, "ce": {"answer": "Thorgan Hazard", "em": 0}}}
+{"qid": "5a8b50475542997f31a41cd4", "golds": ["world wushu tournament"], "arms": {"bm25": {"answer": "Donnie Yen", "em": 0}, "ce": {"answer": "Donnie Yen", "em": 0}}}
+{"qid": "5a860aa6554299211dda2a45", "golds": ["The New York Enterprise Report"], "arms": {"bm25": {"answer": "The New York Enterprise Report", "em": 1}, "ce": {"answer": "The New York Enterprise Report", "em": 1}}}
+{"qid": "5ae4585c5542996836b02c89", "golds": ["Live"], "arms": {"bm25": {"answer": "Live", "em": 1}, "ce": {"answer": "Live", "em": 1}}}
+{"qid": "5adfcb5455429906c02daa48", "golds": ["Father Dougal McGuire"], "arms": {"bm25": {"answer": "Dermot Morgan played Father Ted, and Dermot Morgan starred in \"Father Ted.\" There is no direct connection to", "em": 0}, "ce": {"answer": "George Sunday/Thermoman", "em": 0}}}
+{"qid": "5a77a41a5542997042120ab9", "golds": ["2006"], "arms": {"bm25": {"answer": "2006", "em": 1}, "ce": {"answer": "2006", "em": 1}}}
+{"qid": "5a8759395542994775f607e0", "golds": ["Joel David Coen"], "arms": {"bm25": {"answer": "Todd Anderson", "em": 0}, "ce": {"answer": "Nikos Pappas", "em": 0}}}
+{"qid": "5a84992e5542992a431d1a6d", "golds": ["Boyd Gaming"], "arms": {"bm25": {"answer": "Choice Hotels International", "em": 0}, "ce": {"answer": "Rocco Forte Hotels", "em": 0}}}
+{"qid": "5ac1bce45542994ab5c67def", "golds": ["yes"], "arms": {"bm25": {"answer": "Yes", "em": 1}, "ce": {"answer": "No", "em": 0}}}
+{"qid": "5ac0641f554299294b218fbe", "golds": ["2.1 million"], "arms": {"bm25": {"answer": "2.1 million", "em": 1}, "ce": {"answer": "The Lutheran Church–Missouri Synod (LCMS)", "em": 0}}}
+{"qid": "5a87954f5542996e4f308856", "golds": ["Bactris"], "arms": {"bm25": {"answer": "Epigaea", "em": 0}, "ce": {"answer": "Bactris", "em": 1}}}
+{"qid": "5a8bc03d5542996e8ac88a0b", "golds": ["Operation Neptune"], "arms": {"bm25": {"answer": "Landing Barge, Kitchen", "em": 0}, "ce": {"answer": "Landing Barge, Kitchen (LBK)", "em": 0}}}
+{"qid": "5ab8869155429916710eb081", "golds": ["Boeing EA-18G Growler"], "arms": {"bm25": {"answer": "EA-18G Growler", "em": 0}, "ce": {"answer": "Boeing EA-18G Growler", "em": 1}}}
+{"qid": "5adde17f5542992200553b87", "golds": ["Orlando Magic"], "arms": {"bm25": {"answer": "Seattle SuperSonics", "em": 0}, "ce": {"answer": "Los Angeles Clippers", "em": 0}}}
+{"qid": "5a776ac75542993569682d9b", "golds": ["Daniel Patrick \"Pat\" Moynihan"], "arms": {"bm25": {"answer": "Daniel Patrick Moynihan", "em": 0}, "ce": {"answer": "Daniel Patrick Moynihan", "em": 0}}}
+{"qid": "5ae70ed7554299572ea546a1", "golds": ["Charlie Murphy"], "arms": {"bm25": {"answer": "Charlie", "em": 0}, "ce": {"answer": "Charlie", "em": 0}}}
+{"qid": "5ae1fbf05542997f29b3c1e7", "golds": ["1944"], "arms": {"bm25": {"answer": "1944", "em": 1}, "ce": {"answer": "1944", "em": 1}}}
+{"qid": "5ac1c9a15542994ab5c67e1c", "golds": ["more than 10 million"], "arms": {"bm25": {"answer": "The population of Lima, where the first edition of the South American Youth Olympic Games were held, is not specified in the", "em": 0}, "ce": {"answer": "The population of Lima, where the first edition of the South American Youth Olympic Games were held, is not specified in the", "em": 0}}}
+{"qid": "5a77c8905542995d831812ce", "golds": ["Levi Weeks"], "arms": {"bm25": {"answer": "Levi Weeks", "em": 1}, "ce": {"answer": "Levi Weeks", "em": 1}}}
+{"qid": "5a89f68f5542992e4fca84b6", "golds": ["officer"], "arms": {"bm25": {"answer": "Military officers", "em": 0}, "ce": {"answer": "Military officer", "em": 0}}}
+{"qid": "5a7f62405542992e7d278cf0", "golds": ["Teriade"], "arms": {"bm25": {"answer": "Not provided in the given context.", "em": 0}, "ce": {"answer": "No specific publisher is mentioned for the 1939 publication of \"Finnegans Wake.\"", "em": 0}}}
+{"qid": "5a7ca4485542990527d554f1", "golds": ["2027 Fairmount Avenue"], "arms": {"bm25": {"answer": "Eastern State Penitentiary in Philadelphia", "em": 0}, "ce": {"answer": "2027 Fairmount Avenue", "em": 1}}}
+{"qid": "5a8347d65542996488c2e3f6", "golds": ["Kurt Russell"], "arms": {"bm25": {"answer": "None of the provided context relates to a 2004 hockey film or a former MLB pitcher playing as the USA", "em": 0}, "ce": {"answer": "Mark Ciardi", "em": 0}}}
+{"qid": "5ab8634e5542990e739ec8de", "golds": ["The Vanguard Group"], "arms": {"bm25": {"answer": "They found the research period dependent.", "em": 0}, "ce": {"answer": "They found the research to be period dependent.", "em": 0}}}
+{"qid": "5ab85e9e55429934fafe6d8b", "golds": ["1614"], "arms": {"bm25": {"answer": "University of Groningen", "em": 0}, "ce": {"answer": "1614", "em": 1}}}
+{"qid": "5a79c9c05542994bb94570a5", "golds": ["Robert \"Bobby\" Bunda"], "arms": {"bm25": {"answer": "Robert Bunda", "em": 0}, "ce": {"answer": "Robert Bunda", "em": 0}}}
+{"qid": "5a8c616f5542995e66a475de", "golds": ["Steeles Avenue"], "arms": {"bm25": {"answer": "Steeles Avenue", "em": 1}, "ce": {"answer": "Redlea Avenue", "em": 0}}}
+{"qid": "5ab90fdd55429916710eb0fc", "golds": ["London, England"], "arms": {"bm25": {"answer": "England", "em": 0}, "ce": {"answer": "England", "em": 0}}}
+{"qid": "5abe7f695542993f32c2a12d", "golds": ["focus on young superheroes"], "arms": {"bm25": {"answer": "The focus of the movie in which Nolan North played the role of Superboy is the \"Saints Row IV\" video", "em": 0}, "ce": {"answer": "The focus of the movie in which Nolan North played the role of Superboy was the series \"Superboy\" itself,", "em": 0}}}
+{"qid": "5abeb0da5542997ec76fd34b", "golds": ["yes"], "arms": {"bm25": {"answer": "No", "em": 0}, "ce": {"answer": "Yes", "em": 1}}}
+{"qid": "5a7521c55542993748c897c6", "golds": ["Burwash Mine"], "arms": {"bm25": {"answer": "Burwash Mine", "em": 1}, "ce": {"answer": "Burwash Mine", "em": 1}}}
+{"qid": "5adfda5255429942ec259b5e", "golds": ["Douglas"], "arms": {"bm25": {"answer": "Saint Paul", "em": 0}, "ce": {"answer": "Douglas County", "em": 0}}}
+{"qid": "5abaeda95542992ccd8e7e5d", "golds": ["Twin Pines/Lone Pine Mall"], "arms": {"bm25": {"answer": "Puente Hills Mall", "em": 0}, "ce": {"answer": "Lone Pine Mall", "em": 0}}}
+{"qid": "5ae68e0055429908198fa607", "golds": ["Hindi"], "arms": {"bm25": {"answer": "Indian romantic crime comedy films", "em": 0}, "ce": {"answer": "Hindi films", "em": 0}}}
+{"qid": "5a7577785542992d0ec05fa0", "golds": ["Tatton Park"], "arms": {"bm25": {"answer": "Tatton Park", "em": 1}, "ce": {"answer": "Tatton Park", "em": 1}}}
+{"qid": "5a7d147955429909bec76942", "golds": ["Felicity Rose Hadley Jones"], "arms": {"bm25": {"answer": "Felicity Jones", "em": 0}, "ce": {"answer": "Ed Westwick", "em": 0}}}
+{"qid": "5a83a2a15542993344746063", "golds": ["June 1925"], "arms": {"bm25": {"answer": "1925", "em": 0}, "ce": {"answer": "1925", "em": 0}}}
+{"qid": "5ac079e9554299294b218fff", "golds": ["Navy"], "arms": {"bm25": {"answer": "Royal Navy", "em": 0}, "ce": {"answer": "Royal Navy", "em": 0}}}
+{"qid": "5adca8375542990d50227cd4", "golds": ["2008"], "arms": {"bm25": {"answer": "2011", "em": 0}, "ce": {"answer": "2015", "em": 0}}}
+{"qid": "5add4f3a5542997545bbbd2c", "golds": ["United Holy Salvation Army and Uganda Christian Army/Movement"], "arms": {"bm25": {"answer": "Lord's Resistance Army", "em": 0}, "ce": {"answer": "Lord's Resistance Army", "em": 0}}}
+{"qid": "5ae26cb15542994d89d5b421", "golds": ["September 30, 2009"], "arms": {"bm25": {"answer": "The information provided does not specify when \"The Middle\" premiered.", "em": 0}, "ce": {"answer": "April 6, 1990", "em": 0}}}
+{"qid": "5a73cad5554299623ed4ac5e", "golds": ["Wesley \"Wes\" Studi"], "arms": {"bm25": {"answer": "Wes Studi", "em": 0}, "ce": {"answer": "Rachelle Lefevre", "em": 0}}}
+{"qid": "5ae0d5335542990adbacf674", "golds": ["Robert Smigel, Michael Koman and David Feldman"], "arms": {"bm25": {"answer": "Robert Smigel", "em": 0}, "ce": {"answer": "Robert Smigel", "em": 0}}}
+{"qid": "5ab344fc55429969a97a811e", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5ae1319c55429920d5234301", "golds": ["\"An All-Colored Vaudeville Show\""], "arms": {"bm25": {"answer": "An All-Colored Vaudeville Show", "em": 1}, "ce": {"answer": "An All-Colored Vaudeville Show", "em": 1}}}
+{"qid": "5abee41a5542993fe9a41d79", "golds": ["Dirt track racing"], "arms": {"bm25": {"answer": "Dirt track racing", "em": 1}, "ce": {"answer": "Dirt track racing", "em": 1}}}
+{"qid": "5a7daad55542995f4f4022b7", "golds": ["1599"], "arms": {"bm25": {"answer": "1639", "em": 0}, "ce": {"answer": "1832", "em": 0}}}
+{"qid": "5a8ff6635542995651fb5086", "golds": ["Bearno's Pizza"], "arms": {"bm25": {"answer": "Patxi's Chicago Pizza", "em": 0}, "ce": {"answer": "Patxi's Chicago Pizza", "em": 0}}}
+{"qid": "5ae3c0cc5542992f92d82369", "golds": ["1957"], "arms": {"bm25": {"answer": "1957", "em": 1}, "ce": {"answer": "1957", "em": 1}}}
+{"qid": "5a8485fa5542992a431d1a41", "golds": ["Cuyler Reynolds"], "arms": {"bm25": {"answer": "Cuyler Reynolds", "em": 1}, "ce": {"answer": "Cuyler Reynolds", "em": 1}}}
+{"qid": "5ae1389655429901ffe4ae05", "golds": ["Southern State Parkway"], "arms": {"bm25": {"answer": "Southern State Parkway", "em": 1}, "ce": {"answer": "Southern State Parkway", "em": 1}}}
+{"qid": "5a7b73ad5542997c3ec9718c", "golds": ["martial arts action films"], "arms": {"bm25": {"answer": "Action films", "em": 0}, "ce": {"answer": "Action films", "em": 0}}}
+{"qid": "5a7a68d25542996c55b2dd98", "golds": ["second cousin once removed"], "arms": {"bm25": {"answer": "Louis Mountbatten was the last Viceroy of India and was second cousin once removed to Elizabeth II.", "em": 0}, "ce": {"answer": "Louis Mountbatten was the namesake of The Mountbatten Institute and is related to Elizabeth II as his eldest daughter", "em": 0}}}
+{"qid": "5ae2bb545542992decbdcd88", "golds": ["fortnightly"], "arms": {"bm25": {"answer": "Annually", "em": 0}, "ce": {"answer": "Annually.", "em": 0}}}
+{"qid": "5a8f47a55542997ba9cb3219", "golds": ["Spam"], "arms": {"bm25": {"answer": "Spam", "em": 1}, "ce": {"answer": "Spam", "em": 1}}}
+{"qid": "5ab1ebff5542993be8fa9882", "golds": ["Eustoma"], "arms": {"bm25": {"answer": "Myrtus", "em": 0}, "ce": {"answer": "Eustoma", "em": 1}}}
+{"qid": "5a7fd7305542992e7d278dc2", "golds": ["The Life of Larry and Larry & Steve"], "arms": {"bm25": {"answer": "There's no direct film basis mentioned for \"Family Guy\" or its character Peter Griffin in the given context.", "em": 0}, "ce": {"answer": "The Life of Larry and Larry & Steve", "em": 1}}}
+{"qid": "5abb8aaf5542993f40c73b1c", "golds": ["Los Angeles"], "arms": {"bm25": {"answer": "Nashville", "em": 0}, "ce": {"answer": "Nashville", "em": 0}}}
+{"qid": "5abba584554299642a094afa", "golds": ["1,925 yards"], "arms": {"bm25": {"answer": "1,925", "em": 0}, "ce": {"answer": "10,000", "em": 0}}}
+{"qid": "5a804510554299485f5985af", "golds": ["Nicolas Vanier"], "arms": {"bm25": {"answer": "Nicolas Vanier", "em": 1}, "ce": {"answer": "Nicolas Vanier", "em": 1}}}
+{"qid": "5abb11c15542992ccd8e7ef8", "golds": ["March 30, 2025"], "arms": {"bm25": {"answer": "March 30, 2025", "em": 1}, "ce": {"answer": "March 30, 2025", "em": 1}}}
+{"qid": "5ae376a35542990afbd1e163", "golds": ["yes"], "arms": {"bm25": {"answer": "No", "em": 0}, "ce": {"answer": "No", "em": 0}}}
+{"qid": "5adc5b875542996e68525328", "golds": ["2006 season"], "arms": {"bm25": {"answer": "2007 St. Louis Cardinals season", "em": 0}, "ce": {"answer": "2007 St. Louis Cardinals season", "em": 0}}}
+{"qid": "5ae6b6065542991bbc976168", "golds": ["Scott Adkins"], "arms": {"bm25": {"answer": "None of the actors who have played Luc Deveraux in the Universal Soldier franchise have starred in the movies Holby City", "em": 0}, "ce": {"answer": "Scott Adkins", "em": 1}}}
+{"qid": "5a79d2fe5542994f819ef0c3", "golds": ["Aleksandr Ivanovsky"], "arms": {"bm25": {"answer": "Arthur Lubin", "em": 0}, "ce": {"answer": "Arthur Lubin", "em": 0}}}
+{"qid": "5ab38cdd5542992ade7c6de2", "golds": ["John Lennon"], "arms": {"bm25": {"answer": "John Lennon", "em": 1}, "ce": {"answer": "John Lennon", "em": 1}}}
+{"qid": "5ae73d235542991e8301cc29", "golds": ["Free Range Films"], "arms": {"bm25": {"answer": "Free Range Films", "em": 1}, "ce": {"answer": "Free Range Films", "em": 1}}}
+{"qid": "5a7a33205542996a35c1712f", "golds": ["Province of New York"], "arms": {"bm25": {"answer": "Province of New Jersey", "em": 0}, "ce": {"answer": "Province of New Jersey", "em": 0}}}
+{"qid": "5a799dfb5542994bb9457029", "golds": ["Caesars Palace Grand Prix"], "arms": {"bm25": {"answer": "Caesars Palace Grand Prix", "em": 1}, "ce": {"answer": "Caesars Palace Grand Prix", "em": 1}}}
+{"qid": "5a71095e5542994082a3e4f3", "golds": ["David Dunn"], "arms": {"bm25": {"answer": "David Dunn", "em": 1}, "ce": {"answer": "David Dunn", "em": 1}}}
+{"qid": "5aba77be55429955dce3ee44", "golds": ["7°56'"], "arms": {"bm25": {"answer": "7°56'", "em": 1}, "ce": {"answer": "7°56'", "em": 1}}}
+{"qid": "5a8af94455429971feec45b6", "golds": ["since 2007"], "arms": {"bm25": {"answer": "2007", "em": 0}, "ce": {"answer": "2007", "em": 0}}}
+{"qid": "5abcedb355429959677d6b4f", "golds": ["Scott Paul Carson"], "arms": {"bm25": {"answer": "Frank Fielding", "em": 0}, "ce": {"answer": "Scott Carson", "em": 0}}}
+{"qid": "5a713dcb5542994082a3e6d9", "golds": ["American educator, writer,"], "arms": {"bm25": {"answer": "None", "em": 0}, "ce": {"answer": "None", "em": 0}}}
+{"qid": "5ae383e15542992f92d822fb", "golds": ["Heavyweights"], "arms": {"bm25": {"answer": "Heavyweights", "em": 1}, "ce": {"answer": "Heavyweights", "em": 1}}}
+{"qid": "5a85df525542994c784ddb9f", "golds": ["Robert A. Iger"], "arms": {"bm25": {"answer": "Bob Iger", "em": 0}, "ce": {"answer": "Bob Iger", "em": 0}}}
+{"qid": "5a9030ef5542995651fb50e4", "golds": ["American football"], "arms": {"bm25": {"answer": "Baseball", "em": 0}, "ce": {"answer": "Baseball", "em": 0}}}
+{"qid": "5a8a2d2155429930ff3c0cdc", "golds": ["Academy Award for Best Animated Feature"], "arms": {"bm25": {"answer": "The Andre Norton Award", "em": 0}, "ce": {"answer": "The Andre Norton Award", "em": 0}}}
+{"qid": "5a88fa9e5542993b751ca8de", "golds": ["the Bears"], "arms": {"bm25": {"answer": "Dallas Cowboys", "em": 0}, "ce": {"answer": "The information provided does not specify which NFL team Roy Williams played for after his college career. Roy Williams played for the Dallas", "em": 0}}}
+{"qid": "5ae7882b554299540e5a55dd", "golds": ["great-grandfather"], "arms": {"bm25": {"answer": "None, as Fred Gehrke is unrelated to the 23rd overall pick in the 2010", "em": 0}, "ce": {"answer": "Great-grandfather", "em": 1}}}
+{"qid": "5a81dacc55429926c1cdada0", "golds": ["William Shakespeare"], "arms": {"bm25": {"answer": "William Walton", "em": 0}, "ce": {"answer": "William Shakespeare", "em": 1}}}
+{"qid": "5ab322b1554299194fa93570", "golds": ["fictional character"], "arms": {"bm25": {"answer": "Magical English nanny", "em": 0}, "ce": {"answer": "Magical English nanny", "em": 0}}}
+{"qid": "5a8a764555429930ff3c0de1", "golds": ["American-born"], "arms": {"bm25": {"answer": "Being the only U.S. born world grand prix champion.", "em": 0}, "ce": {"answer": "Phil Hill's American birth makes him unique as the only American-born winner of the Formula One World Drivers' Championship.", "em": 0}}}
+{"qid": "5a8d93bf554299068b959d46", "golds": ["no"], "arms": {"bm25": {"answer": "No", "em": 1}, "ce": {"answer": "No", "em": 1}}}
+{"qid": "5abf04ae5542993fe9a41dbf", "golds": ["played"], "arms": {"bm25": {"answer": "Playing a mouthbow or gourd-bow.", "em": 0}, "ce": {"answer": "Playing", "em": 0}}}
