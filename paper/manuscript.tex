@@ -1,4 +1,4 @@
-\documentclass[11pt]{article}
+﻿\documentclass[11pt]{article}
 \usepackage[margin=2.4cm]{geometry}
 \usepackage{booktabs}
 \usepackage{graphicx}
@@ -56,6 +56,16 @@ templates; abstention; retrieval coverage; rank metrics; reproducibility
 
 \end{abstract}
 
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.95\linewidth]{fig_ai_main.png}
+\caption{Overview of the four inputs audited here, drawn for the two largest. Left: the same
+reader, documents and questions under three published default templates, with the 46-point
+exact-match spread. Right: abstention with an empty context, with and without the single
+sentence that LangChain's default carries. Values are the measured ones from
+Tables~\ref{tab:format} and~\ref{tab:clause}.}
+\label{fig:overview}
+\end{figure}
 \section{Introduction}
 
 A retrieval-augmented generation system is assembled from a retriever, a reranker, a reader and
@@ -497,6 +507,12 @@ was actually done.
 
 \noindent\textbf{Funding.} Not applicable.
 
+\noindent\textbf{Use of AI tools.} Figure~\ref{fig:overview} was rendered with an AI image tool
+from a specification written by the authors; the numbers it displays were transcribed from the
+measured results and checked against Tables~\ref{tab:format} and~\ref{tab:clause}. No other part
+of the manuscript was produced with generative AI. All reported values come from the
+verification script described in Section~\ref{sec:setup}.
+
 \noindent\textbf{Competing interests.} The authors declare no competing interests.
 
 \noindent\textbf{Ethics approval.} Not applicable; public benchmarks and locally served
@@ -645,3 +661,4 @@ Grattafiori, A., et al.: The Llama 3 herd of models. \url{https://arxiv.org/abs/
 \end{thebibliography}
 
 \end{document}
+
